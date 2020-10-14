@@ -1,0 +1,1 @@
+## This reposetory consists of projects of using dl/rl algorithms for different aspects connected with ice-hockey.
