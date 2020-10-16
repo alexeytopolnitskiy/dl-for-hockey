@@ -6,6 +6,6 @@ Steps of the project:
 3. Run the model on the web-server.
 
 Tools that are going to be used:
-1. Data parsing: requests, BeautifulSoup.
-2. DL model creation: PyTorch, Catalyst, Albumentations.
+1. Data parsing: BeautifulSoup.
+2. DL model creation: PyTorch.
 3. Web-server: FastAPI.
