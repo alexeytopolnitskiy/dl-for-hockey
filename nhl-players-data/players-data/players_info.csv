@@ -1,0 +1,886 @@
+FirstName;LastName;Team;Webpage;Img;Number;Position;Shoots;Height;Weight;Birthdate;Hometown
+Pierre-Edouard;Bellemare;Avalanche;https://www.nhl.com/player/pierre-edouard-bellemare-8477930;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477930.jpg;41;C;L;"6'0""";198;03/06/85;Le Blanc-Mesnil, FRA
+Shane;Bowers;Avalanche;https://www.nhl.com/player/shane-bowers-8480032;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480032.jpg;14;C;L;"6'2""";186;07/30/99;Halifax, NS, CAN
+Andre;Burakovsky;Avalanche;https://www.nhl.com/player/andre-burakovsky-8477444;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477444.jpg;95;LW;L;"6'3""";201;02/09/95;Klagenfurt, AUT
+Matt;Calvert;Avalanche;https://www.nhl.com/player/matt-calvert-8474685;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474685.jpg;11;LW;L;"5'11""";186;12/24/89;Brandon, MB, CAN
+J.T.;Compher;Avalanche;https://www.nhl.com/player/j-t-compher-8477456;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477456.jpg;37;LW;R;"6'0""";190;04/08/95;Northbrook, IL, USA
+Joonas;Donskoi;Avalanche;https://www.nhl.com/player/joonas-donskoi-8475820;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475820.jpg;72;RW;R;"6'0""";190;04/13/92;Raahe, FIN
+Sheldon;Dries;Avalanche;https://www.nhl.com/player/sheldon-dries-8480326;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480326.jpg;15;C;L;"5'9""";180;04/23/94;Macomb, MI, USA
+Tyson;Jost;Avalanche;https://www.nhl.com/player/tyson-jost-8479370;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479370.jpg;17;C;L;"5'11""";187;03/14/98;St. Albert, AB, CAN
+Nazem;Kadri;Avalanche;https://www.nhl.com/player/nazem-kadri-8475172;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475172.jpg;91;C;L;"6'0""";192;10/06/90;London, ON, CAN
+Gabriel;Landeskog;Avalanche;https://www.nhl.com/player/gabriel-landeskog-8476455;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476455.jpg;92;LW;L;"6'1""";215;11/23/92;Stockholm, SWE
+Nathan;MacKinnon;Avalanche;https://www.nhl.com/player/nathan-mackinnon-8477492;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477492.jpg;29;C;R;"6'0""";200;09/01/95;Halifax, NS, CAN
+Vladislav;Namestnikov;Avalanche;https://www.nhl.com/player/vladislav-namestnikov-8476480;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476480.jpg;90;C;L;"6'0""";183;11/22/92;Zhukovskiy, RUS
+Valeri;Nichushkin;Avalanche;https://www.nhl.com/player/valeri-nichushkin-8477501;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477501.jpg;13;RW;L;"6'4""";210;03/04/95;Chelyabinsk, RUS
+Matt;Nieto;Avalanche;https://www.nhl.com/player/matt-nieto-8476442;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476442.jpg;83;LW;L;"5'11""";185;11/05/92;Long Beach, CA, USA
+Logan;O'Connor;Avalanche;https://www.nhl.com/player/logan-o-connor-8481186;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481186.jpg;25;RW;R;"6'0""";175;08/14/96;Missouri City, TX, USA
+Mikko;Rantanen;Avalanche;https://www.nhl.com/player/mikko-rantanen-8478420;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478420.jpg;96;RW;L;"6'4""";215;10/29/96;Nousiainen, FIN
+T.J.;Tynan;Avalanche;https://www.nhl.com/player/t-j-tynan-8476391;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476391.jpg;36;C;R;"5'8""";165;02/25/92;Orland Park, IL, USA
+Colin;Wilson;Avalanche;https://www.nhl.com/player/colin-wilson-8474569;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474569.jpg;22;C;L;"6'1""";215;10/20/89;Greenwich, CT, USA
+Mark;Barberio;Avalanche;https://www.nhl.com/player/mark-barberio-8474717;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474717.jpg;44;D;L;"6'1""";200;03/23/90;Montreal, QC, CAN
+Bowen;Byram;Avalanche;https://www.nhl.com/player/bowen-byram-8481524;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481524.jpg;45;D;L;"6'1""";190;06/13/01;Cranbrook, BC, CAN
+Ian;Cole;Avalanche;https://www.nhl.com/player/ian-cole-8474013;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474013.jpg;28;D;L;"6'1""";225;02/21/89;Ann Arbor, MI, USA
+Kevin;Connauton;Avalanche;https://www.nhl.com/player/kevin-connauton-8475246;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475246.jpg;7;D;L;"6'2""";205;02/23/90;Edmonton, AB, CAN
+Samuel;Girard;Avalanche;https://www.nhl.com/player/samuel-girard-8479398;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479398.jpg;49;D;L;"5'10""";170;05/12/98;Roberval, QC, CAN
+Ryan;Graves;Avalanche;https://www.nhl.com/player/ryan-graves-8477435;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477435.jpg;27;D;L;"6'5""";220;05/21/95;Yarmouth, NS, CAN
+Erik;Johnson;Avalanche;https://www.nhl.com/player/erik-johnson-8473446;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473446.jpg;6;D;R;"6'4""";225;03/21/88;Bloomington, MN, USA
+Anton;Lindholm;Avalanche;https://www.nhl.com/player/anton-lindholm-8478073;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478073.jpg;54;D;L;"5'11""";191;11/29/94;Skellefteå, SWE
+Cale;Makar;Avalanche;https://www.nhl.com/player/cale-makar-8480069;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480069.jpg;8;D;R;"5'11""";187;10/30/98;Calgary, AB, CAN
+Conor;Timmins;Avalanche;https://www.nhl.com/player/conor-timmins-8479982;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479982.jpg;20;D;R;"6'2""";185;09/18/98;St. Catharines, ON, CAN
+Nikita;Zadorov;Avalanche;https://www.nhl.com/player/nikita-zadorov-8477507;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477507.jpg;16;D;L;"6'6""";235;04/16/95;Moscow, RUS
+Pavel;Francouz;Avalanche;https://www.nhl.com/player/pavel-francouz-8480925;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480925.jpg;39;G;--;"6'0""";179;06/03/90;Plzen, CZE
+Philipp;Grubauer;Avalanche;https://www.nhl.com/player/philipp-grubauer-8475831;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475831.jpg;31;G;--;"6'1""";188;11/25/91;Rosenheim, DEU
+Michael;Hutchinson;Avalanche;https://www.nhl.com/player/michael-hutchinson-8474636;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474636.jpg;35;G;--;"6'3""";198;03/02/90;Barrie, ON, CAN
+Hunter;Miska;Avalanche;https://www.nhl.com/player/hunter-miska-8480112;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480112.jpg;32;G;--;"6'1""";175;07/07/95;North Branch, MN, USA
+Drake;Caggiula;Blackhawks;https://www.nhl.com/player/drake-caggiula-8479465;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479465.jpg;91;C;L;"5'10""";176;06/20/94;Pickering, ON, CAN
+Ryan;Carpenter;Blackhawks;https://www.nhl.com/player/ryan-carpenter-8477846;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477846.jpg;22;C;R;"6'0""";200;01/18/91;Oviedo, FL, USA
+Kirby;Dach;Blackhawks;https://www.nhl.com/player/kirby-dach-8481523;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481523.jpg;77;C;R;"6'4""";197;01/21/01;Fort Saskatchewan, AB, CAN
+Alex;DeBrincat;Blackhawks;https://www.nhl.com/player/alex-debrincat-8479337;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479337.jpg;12;LW;R;"5'7""";165;12/18/97;Farmington Hills, MI, USA
+MacKenzie;Entwistle;Blackhawks;https://www.nhl.com/player/mackenzie-entwistle-8480025;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480025.jpg;58;RW;R;"6'3""";184;07/14/99;Georgetown, ON, CAN
+Brandon;Hagel;Blackhawks;https://www.nhl.com/player/brandon-hagel-8479542;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479542.jpg;38;LW;L;"5'11""";174;08/27/98;Saskatoon, SK, CAN
+Matthew;Highmore;Blackhawks;https://www.nhl.com/player/matthew-highmore-8478146;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478146.jpg;36;C;L;"5'11""";188;02/27/96;Halifax, NS, CAN
+David;Kampf;Blackhawks;https://www.nhl.com/player/david-kampf-8480144;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480144.jpg;64;C;L;"6'2""";188;01/12/95;Chomutov, CZE
+Patrick;Kane;Blackhawks;https://www.nhl.com/player/patrick-kane-8474141;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474141.jpg;88;RW;L;"5'10""";177;11/19/88;Buffalo, NY, USA
+Dominik;Kubalik;Blackhawks;https://www.nhl.com/player/dominik-kubalik-8477330;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477330.jpg;8;LW;L;"6'2""";179;08/21/95;Plzen, CZE
+Philipp;Kurashev;Blackhawks;https://www.nhl.com/player/philipp-kurashev-8480798;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480798.jpg;71;C;L;"6'0""";190;10/12/99;Munsingen, CHE
+Alex;Nylander;Blackhawks;https://www.nhl.com/player/alex-nylander-8479423;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479423.jpg;92;LW;R;"6'1""";192;03/02/98;Calgary, AB, CAN
+John;Quenneville;Blackhawks;https://www.nhl.com/player/john-quenneville-8477961;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477961.jpg;47;C;L;"6'1""";195;04/16/96;Edmonton, AB, CAN
+Brandon;Saad;Blackhawks;https://www.nhl.com/player/brandon-saad-8476438;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476438.jpg;20;LW;L;"6'1""";206;10/27/92;Pittsburgh, PA, USA
+Andrew;Shaw;Blackhawks;https://www.nhl.com/player/andrew-shaw-8476381;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476381.jpg;65;RW;R;"5'11""";182;07/20/91;Belleville, ON, CAN
+Dylan;Strome;Blackhawks;https://www.nhl.com/player/dylan-strome-8478440;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478440.jpg;17;C;L;"6'3""";200;03/07/97;Mississauga, ON, CAN
+Jonathan;Toews;Blackhawks;https://www.nhl.com/player/jonathan-toews-8473604;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473604.jpg;19;C;L;"6'2""";201;04/29/88;Winnipeg, MB, CAN
+Nicolas;Beaudin;Blackhawks;https://www.nhl.com/player/nicolas-beaudin-8480814;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480814.jpg;74;D;L;"5'11""";168;10/07/99;Chateauguay, QC, CAN
+Adam;Boqvist;Blackhawks;https://www.nhl.com/player/adam-boqvist-8480871;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480871.jpg;27;D;R;"5'11""";179;08/15/00;Falun, SWE
+Lucas;Carlsson;Blackhawks;https://www.nhl.com/player/lucas-carlsson-8479523;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479523.jpg;46;D;L;"6'0""";189;07/05/97;Gävle, SWE
+Calvin;de Haan;Blackhawks;https://www.nhl.com/player/calvin-de-haan-8475177;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475177.jpg;44;D;L;"6'1""";195;05/09/91;Carp, ON, CAN
+Duncan;Keith;Blackhawks;https://www.nhl.com/player/duncan-keith-8470281;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470281.jpg;2;D;L;"6'1""";192;07/16/83;Winnipeg, MB, CAN
+Slater;Koekkoek;Blackhawks;https://www.nhl.com/player/slater-koekkoek-8476886;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476886.jpg;68;D;L;"6'2""";193;02/18/94;Winchester, ON, CAN
+Connor;Murphy;Blackhawks;https://www.nhl.com/player/connor-murphy-8476473;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476473.jpg;5;D;R;"6'4""";212;03/26/93;Dublin, OH, USA
+Alec;Regula;Blackhawks;https://www.nhl.com/player/alec-regula-8480831;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480831.jpg;75;D;R;"6'4""";208;08/06/00;West Bloomfield, MI, USA
+Brent;Seabrook;Blackhawks;https://www.nhl.com/player/brent-seabrook-8470607;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470607.jpg;7;D;R;"6'3""";220;04/20/85;Richmond, BC, CAN
+Nick;Seeler;Blackhawks;https://www.nhl.com/player/nick-seeler-8476372;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476372.jpg;55;D;L;"6'2""";201;06/03/93;Eden Prairie, MN, USA
+Corey;Crawford;Blackhawks;https://www.nhl.com/player/corey-crawford-8470645;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470645.jpg;50;G;--;"6'2""";216;12/31/84;Montreal, QC, CAN
+Collin;Delia;Blackhawks;https://www.nhl.com/player/collin-delia-8480420;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480420.jpg;60;G;--;"6'2""";208;06/20/94;Rancho Cucamonga, CA, USA
+Kevin;Lankinen;Blackhawks;https://www.nhl.com/player/kevin-lankinen-8480947;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480947.jpg;34;G;--;"6'2""";185;04/28/95;Helsinki, FIN
+Malcolm;Subban;Blackhawks;https://www.nhl.com/player/malcolm-subban-8476876;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476876.jpg;30;G;--;"6'2""";215;12/21/93;Toronto, ON, CAN
+Josh;Anderson;Blue Jackets;https://www.nhl.com/player/josh-anderson-8476981;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476981.jpg;77;RW;R;"6'3""";222;05/07/94;Burlington, ON, CAN
+Cam;Atkinson;Blue Jackets;https://www.nhl.com/player/cam-atkinson-8474715;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474715.jpg;13;RW;R;"5'8""";175;06/05/89;Riverside, CT, USA
+Oliver;Bjorkstrand;Blue Jackets;https://www.nhl.com/player/oliver-bjorkstrand-8477416;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477416.jpg;28;RW;R;"6'0""";177;04/10/95;Herning, DNK
+Brandon;Dubinsky;Blue Jackets;https://www.nhl.com/player/brandon-dubinsky-8471273;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471273.jpg;17;C;L;"6'2""";208;04/29/86;Anchorage, AK, USA
+Pierre-Luc;Dubois;Blue Jackets;https://www.nhl.com/player/pierre-luc-dubois-8479400;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479400.jpg;18;C;L;"6'3""";218;06/24/98;Ste-Agathe-des-Monts, QC, CAN
+Nick;Foligno;Blue Jackets;https://www.nhl.com/player/nick-foligno-8473422;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473422.jpg;71;LW;L;"6'0""";208;10/31/87;Buffalo, NY, USA
+Liam;Foudy;Blue Jackets;https://www.nhl.com/player/liam-foudy-8480853;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480853.jpg;19;C;L;"6'2""";182;02/04/00;Scarborough, ON, CAN
+Nathan;Gerbe;Blue Jackets;https://www.nhl.com/player/nathan-gerbe-8471804;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471804.jpg;24;C;L;"5'4""";169;07/24/87;Oxford, MI, USA
+Boone;Jenner;Blue Jackets;https://www.nhl.com/player/boone-jenner-8476432;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476432.jpg;38;C;L;"6'2""";208;06/15/93;Dorchester, ON, CAN
+Jakob;Lilja;Blue Jackets;https://www.nhl.com/player/jakob-lilja-8481650;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481650.jpg;15;LW;L;"6'1""";196;07/23/93;Malmo, SWE
+Stefan;Matteau;Blue Jackets;https://www.nhl.com/player/stefan-matteau-8476870;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476870.jpg;23;C;L;"6'2""";220;02/23/94;Chicago, IL, USA
+Riley;Nash;Blue Jackets;https://www.nhl.com/player/riley-nash-8474062;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474062.jpg;20;C;R;"6'2""";185;05/09/89;Consort, AB, CAN
+Gustav;Nyquist;Blue Jackets;https://www.nhl.com/player/gustav-nyquist-8474679;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474679.jpg;14;C;L;"5'11""";179;09/01/89;Halmstad, SWE
+Eric;Robinson;Blue Jackets;https://www.nhl.com/player/eric-robinson-8480762;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480762.jpg;50;LW;L;"6'2""";197;06/14/95;Bellmawr, NJ, USA
+Devin;Shore;Blue Jackets;https://www.nhl.com/player/devin-shore-8476913;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476913.jpg;74;C;L;"6'1""";206;07/19/94;Ajax, ON, CAN
+Kevin;Stenlund;Blue Jackets;https://www.nhl.com/player/kevin-stenlund-8478831;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478831.jpg;11;C;R;"6'4""";209;09/20/96;Stockholm, SWE
+Alexandre;Texier;Blue Jackets;https://www.nhl.com/player/alexandre-texier-8480074;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480074.jpg;42;C;L;"6'1""";192;09/13/99;St. Martin D'heres, FRA
+Alexander;Wennberg;Blue Jackets;https://www.nhl.com/player/alexander-wennberg-8477505;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477505.jpg;10;C;L;"6'2""";197;09/22/94;Stockholm, SWE
+Gabriel;Carlsson;Blue Jackets;https://www.nhl.com/player/gabriel-carlsson-8478506;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478506.jpg;53;D;L;"6'5""";192;01/02/97;Orebro, SWE
+Vladislav;Gavrikov;Blue Jackets;https://www.nhl.com/player/vladislav-gavrikov-8478882;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478882.jpg;44;D;L;"6'3""";213;11/21/95;Yaroslavl, RUS
+Scott;Harrington;Blue Jackets;https://www.nhl.com/player/scott-harrington-8476449;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476449.jpg;4;D;L;"6'2""";204;03/10/93;Kingston, ON, CAN
+Seth;Jones;Blue Jackets;https://www.nhl.com/player/seth-jones-8477495;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477495.jpg;3;D;R;"6'4""";209;10/03/94;Arlington, TX, USA
+Dean;Kukan;Blue Jackets;https://www.nhl.com/player/dean-kukan-8478567;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478567.jpg;46;D;L;"6'2""";192;07/08/93;Volketswil, CHE
+Ryan;Murray;Blue Jackets;https://www.nhl.com/player/ryan-murray-8476850;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476850.jpg;27;D;L;"6'1""";206;09/27/93;Regina, SK, CAN
+Markus;Nutivaara;Blue Jackets;https://www.nhl.com/player/markus-nutivaara-8478906;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478906.jpg;65;D;L;"6'1""";187;06/06/94;Oulu, FIN
+Andrew;Peeke;Blue Jackets;https://www.nhl.com/player/andrew-peeke-8479369;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479369.jpg;2;D;R;"6'3""";194;03/17/98;Parkland, FL, USA
+David;Savard;Blue Jackets;https://www.nhl.com/player/david-savard-8475233;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475233.jpg;58;D;R;"6'2""";229;10/22/90;St. Hyacinthe, QC, CAN
+Zach;Werenski;Blue Jackets;https://www.nhl.com/player/zach-werenski-8478460;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478460.jpg;8;D;L;"6'2""";212;07/19/97;Grosse Pointe, MI, USA
+Matiss;Kivlenieks;Blue Jackets;https://www.nhl.com/player/matiss-kivlenieks-8480162;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480162.jpg;80;G;--;"6'2""";178;08/26/96;Riga, LVA
+Joonas;Korpisalo;Blue Jackets;https://www.nhl.com/player/joonas-korpisalo-8476914;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476914.jpg;70;G;--;"6'3""";191;04/28/94;Pori, FIN
+Elvis;Merzlikins;Blue Jackets;https://www.nhl.com/player/elvis-merzlikins-8478007;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478007.jpg;90;G;--;"6'3""";181;04/13/94;Riga, LVA
+Ivan;Barbashev;Blues;https://www.nhl.com/player/ivan-barbashev-8477964;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477964.jpg;49;C;L;"6'0""";187;12/14/95;Moscow, RUS
+Sammy;Blais;Blues;https://www.nhl.com/player/sammy-blais-8478104;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478104.jpg;9;LW;L;"6'2""";205;06/17/96;Montmagny, QC, CAN
+Tyler;Bozak;Blues;https://www.nhl.com/player/tyler-bozak-8475098;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475098.jpg;21;C;R;"6'1""";199;03/19/86;Regina, SK, CAN
+Troy;Brouwer;Blues;https://www.nhl.com/player/troy-brouwer-8471426;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471426.jpg;36;RW;R;"6'3""";213;08/17/85;Vancouver, BC, CAN
+Jacob;de la Rose;Blues;https://www.nhl.com/player/jacob-de-la-rose-8477455;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477455.jpg;61;LW;L;"6'3""";215;05/20/95;Arvika, SWE
+Jordan;Kyrou;Blues;https://www.nhl.com/player/jordan-kyrou-8479385;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479385.jpg;33;C;R;"6'0""";175;05/05/98;Toronto, ON, CAN
+Mackenzie;MacEachern;Blues;https://www.nhl.com/player/mackenzie-maceachern-8476907;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476907.jpg;28;LW;L;"6'2""";190;03/09/94;Bloomfield Hills, MI, USA
+Ryan;O'Reilly;Blues;https://www.nhl.com/player/ryan-o-reilly-8475158;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475158.jpg;90;C;L;"6'1""";216;02/07/91;Clinton, ON, CAN
+David;Perron;Blues;https://www.nhl.com/player/david-perron-8474102;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474102.jpg;57;LW;R;"6'0""";200;05/28/88;Sherbrooke, QC, CAN
+Austin;Poganski;Blues;https://www.nhl.com/player/austin-poganski-8478040;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478040.jpg;53;RW;R;"6'1""";198;02/16/96;St. Cloud, MN, USA
+Zach;Sanford;Blues;https://www.nhl.com/player/zach-sanford-8477482;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477482.jpg;12;LW;L;"6'4""";207;11/09/94;Salem, MA, USA
+Brayden;Schenn;Blues;https://www.nhl.com/player/brayden-schenn-8475170;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475170.jpg;10;C;L;"6'1""";200;08/22/91;Saskatoon, SK, CAN
+Jaden;Schwartz;Blues;https://www.nhl.com/player/jaden-schwartz-8475768;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475768.jpg;17;LW;L;"5'10""";190;06/25/92;Wilcox, SK, CAN
+Alexander;Steen;Blues;https://www.nhl.com/player/alexander-steen-8470257;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470257.jpg;20;LW;L;"6'0""";211;03/01/84;Winnipeg, MB, CAN
+Oskar;Sundqvist;Blues;https://www.nhl.com/player/oskar-sundqvist-8476897;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476897.jpg;70;C;R;"6'3""";209;03/23/94;Boden, SWE
+Vladimir;Tarasenko;Blues;https://www.nhl.com/player/vladimir-tarasenko-8475765;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475765.jpg;91;RW;L;"6'0""";225;12/13/91;Yaroslavl, RUS
+Robert;Thomas;Blues;https://www.nhl.com/player/robert-thomas-8480023;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480023.jpg;18;C;R;"6'0""";188;07/02/99;Aurora, ON, CAN
+Robert;Bortuzzo;Blues;https://www.nhl.com/player/robert-bortuzzo-8474145;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474145.jpg;41;D;R;"6'4""";216;03/18/89;Thunder Bay, ON, CAN
+Jay;Bouwmeester;Blues;https://www.nhl.com/player/jay-bouwmeester-8470151;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470151.jpg;19;D;L;"6'4""";206;09/27/83;Edmonton, AB, CAN
+Vince;Dunn;Blues;https://www.nhl.com/player/vince-dunn-8478407;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478407.jpg;29;D;L;"6'0""";203;10/29/96;Mississauga, ON, CAN
+Justin;Faulk;Blues;https://www.nhl.com/player/justin-faulk-8475753;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475753.jpg;72;D;R;"6'0""";217;03/20/92;South St. Paul, MN, USA
+Carl;Gunnarsson;Blues;https://www.nhl.com/player/carl-gunnarsson-8474125;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474125.jpg;4;D;L;"6'2""";198;11/09/86;Orebro, SWE
+Niko;Mikkola;Blues;https://www.nhl.com/player/niko-mikkola-8478859;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478859.jpg;77;D;L;"6'4""";185;04/27/96;Finland, FIN
+Colton;Parayko;Blues;https://www.nhl.com/player/colton-parayko-8476892;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476892.jpg;55;D;R;"6'6""";230;05/12/93;St. Albert, AB, CAN
+Alex;Pietrangelo;Blues;https://www.nhl.com/player/alex-pietrangelo-8474565;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474565.jpg;27;D;R;"6'3""";210;01/18/90;King City, ON, CAN
+Derrick;Pouliot;Blues;https://www.nhl.com/player/derrick-pouliot-8476884;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476884.jpg;51;D;L;"6'0""";196;01/16/94;Estevan, SK, CAN
+Marco;Scandella;Blues;https://www.nhl.com/player/marco-scandella-8474618;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474618.jpg;6;D;L;"6'3""";212;02/23/90;Montreal, QC, CAN
+Jake;Walman;Blues;https://www.nhl.com/player/jake-walman-8478013;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478013.jpg;46;D;L;"6'1""";170;02/20/96;Toronto, ON, CAN
+Jordan;Binnington;Blues;https://www.nhl.com/player/jordan-binnington-8476412;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476412.jpg;50;G;--;"6'1""";174;07/11/93;Richmond Hill, ON, CAN
+Ville;Husso;Blues;https://www.nhl.com/player/ville-husso-8478024;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478024.jpg;35;G;--;"6'3""";205;02/06/95;Helsinki, FIN
+Patrice;Bergeron;Bruins;https://www.nhl.com/player/patrice-bergeron-8470638;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470638.jpg;37;C;R;"6'1""";195;07/24/85;Ancienne-Lorette, QC, CAN
+Anders;Bjork;Bruins;https://www.nhl.com/player/anders-bjork-8478075;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478075.jpg;10;LW;L;"6'0""";190;08/05/96;Mequon, WI, USA
+Charlie;Coyle;Bruins;https://www.nhl.com/player/charlie-coyle-8475745;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475745.jpg;13;C;R;"6'3""";220;03/02/92;E. Weymouth, MA, USA
+Jake;DeBrusk;Bruins;https://www.nhl.com/player/jake-debrusk-8478498;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478498.jpg;74;LW;L;"6'0""";188;10/17/96;Edmonton, AB, CAN
+Trent;Frederic;Bruins;https://www.nhl.com/player/trent-frederic-8479365;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479365.jpg;82;C;L;"6'2""";203;02/11/98;St. Louis, MO, USA
+Ondrej;Kase;Bruins;https://www.nhl.com/player/ondrej-kase-8478131;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478131.jpg;28;RW;R;"6'0""";190;11/08/95;Kadan, CZE
+David;Krejci;Bruins;https://www.nhl.com/player/david-krejci-8471276;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471276.jpg;46;C;R;"6'0""";188;04/28/86;Sternberk, CZE
+Karson;Kuhlman;Bruins;https://www.nhl.com/player/karson-kuhlman-8480901;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480901.jpg;83;C;R;"5'11""";185;09/26/95;Esko, MN, USA
+Sean;Kuraly;Bruins;https://www.nhl.com/player/sean-kuraly-8476374;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476374.jpg;52;C;L;"6'2""";213;01/20/93;Dublin, OH, USA
+Par;Lindholm;Bruins;https://www.nhl.com/player/par-lindholm-8480944;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480944.jpg;26;C;L;"6'0""";183;10/05/91;Kusmark, SWE
+Brad;Marchand;Bruins;https://www.nhl.com/player/brad-marchand-8473419;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473419.jpg;63;LW;L;"5'9""";181;05/11/88;Halifax, NS, CAN
+Joakim;Nordstrom;Bruins;https://www.nhl.com/player/joakim-nordstrom-8475807;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475807.jpg;20;C;L;"6'1""";194;02/25/92;Stockholm, SWE
+David;Pastrnak;Bruins;https://www.nhl.com/player/david-pastrnak-8477956;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477956.jpg;88;RW;R;"6'0""";194;05/25/96;Havirov, CZE
+Nick;Ritchie;Bruins;https://www.nhl.com/player/nick-ritchie-8477941;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477941.jpg;21;LW;L;"6'2""";230;12/05/95;Orangeville, ON, CAN
+Zach;Senyshyn;Bruins;https://www.nhl.com/player/zach-senyshyn-8478485;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478485.jpg;19;RW;R;"6'1""";192;03/30/97;Ottawa, ON, CAN
+Jack;Studnicka;Bruins;https://www.nhl.com/player/jack-studnicka-8480021;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480021.jpg;68;C;R;"6'1""";171;02/18/99;Windsor, ON, CAN
+Chris;Wagner;Bruins;https://www.nhl.com/player/chris-wagner-8475780;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475780.jpg;14;RW;R;"6'0""";198;05/27/91;Walpole, MA, USA
+Brandon;Carlo;Bruins;https://www.nhl.com/player/brandon-carlo-8478443;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478443.jpg;25;D;R;"6'5""";212;11/26/96;Colorado Springs, CO, USA
+Zdeno;Chara;Bruins;https://www.nhl.com/player/zdeno-chara-8465009;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8465009.jpg;33;D;L;"6'9""";250;03/18/77;Trencin, SVK
+Connor;Clifton;Bruins;https://www.nhl.com/player/connor-clifton-8477365;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477365.jpg;75;D;R;"5'11""";175;04/28/95;Long Branch, NJ, USA
+Matt;Grzelcyk;Bruins;https://www.nhl.com/player/matt-grzelcyk-8476891;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476891.jpg;48;D;L;"5'9""";174;01/05/94;Charlestown, MA, USA
+Torey;Krug;Bruins;https://www.nhl.com/player/torey-krug-8476792;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476792.jpg;47;D;L;"5'9""";186;04/12/91;Livonia, MI, USA
+Jeremy;Lauzon;Bruins;https://www.nhl.com/player/jeremy-lauzon-8478468;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478468.jpg;79;D;L;"6'1""";204;04/28/97;Val D'or, QC, CAN
+Charlie;McAvoy;Bruins;https://www.nhl.com/player/charlie-mcavoy-8479325;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479325.jpg;73;D;R;"6'0""";208;12/21/97;Long Beach, NY, USA
+Kevan;Miller;Bruins;https://www.nhl.com/player/kevan-miller-8476191;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476191.jpg;86;D;R;"6'2""";210;11/15/87;Los Angeles, CA, USA
+John;Moore;Bruins;https://www.nhl.com/player/john-moore-8475186;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475186.jpg;27;D;L;"6'2""";210;11/19/90;Winnetka, IL, USA
+Urho;Vaakanainen;Bruins;https://www.nhl.com/player/urho-vaakanainen-8480001;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480001.jpg;58;D;L;"6'1""";185;01/01/99;Joensuu, FIN
+Jakub;Zboril;Bruins;https://www.nhl.com/player/jakub-zboril-8478415;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478415.jpg;67;D;L;"6'0""";200;02/21/97;Brno, CZE
+Jaroslav;Halak;Bruins;https://www.nhl.com/player/jaroslav-halak-8470860;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470860.jpg;41;G;--;"5'11""";185;05/13/85;Bratislava, SVK
+Maxime;Lagace;Bruins;https://www.nhl.com/player/maxime-lagace-8476509;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476509.jpg;35;G;--;"6'2""";190;01/12/93;Saint-Augustin, QC, CAN
+Tuukka;Rask;Bruins;https://www.nhl.com/player/tuukka-rask-8471695;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471695.jpg;40;G;--;"6'3""";176;03/10/87;Savonlinna, FIN
+Dan;Vladar;Bruins;https://www.nhl.com/player/dan-vladar-8478435;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478435.jpg;80;G;--;"6'5""";185;08/20/97;Prague, CZE
+Joel;Armia;Canadiens;https://www.nhl.com/player/joel-armia-8476469;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476469.jpg;40;RW;R;"6'4""";213;05/31/93;Pori, FIN
+Alex;Belzile;Canadiens;https://www.nhl.com/player/alex-belzile-8475968;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475968.jpg;60;RW;R;"6'0""";192;08/31/91;Riviere-du-Loup, QC, CAN
+Paul;Byron;Canadiens;https://www.nhl.com/player/paul-byron-8474038;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474038.jpg;41;LW;L;"5'9""";158;04/27/89;Ottawa, ON, CAN
+Phillip;Danault;Canadiens;https://www.nhl.com/player/phillip-danault-8476479;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476479.jpg;24;C;L;"6'1""";201;02/24/93;Victoriaville, QC, CAN
+Laurent;Dauphin;Canadiens;https://www.nhl.com/player/laurent-dauphin-8477460;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477460.jpg;45;C;L;"6'1""";180;03/27/95;Repentigny, QC, CAN
+Max;Domi;Canadiens;https://www.nhl.com/player/max-domi-8477503;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477503.jpg;13;C;L;"5'10""";192;03/02/95;Winnipeg, MB, CAN
+Jonathan;Drouin;Canadiens;https://www.nhl.com/player/jonathan-drouin-8477494;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477494.jpg;92;LW;L;"6'0""";197;03/28/95;Ste-Agathe, QC, CAN
+Jake;Evans;Canadiens;https://www.nhl.com/player/jake-evans-8478133;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478133.jpg;71;C;R;"6'1""";181;06/02/96;Toronto, ON, CAN
+Brendan;Gallagher;Canadiens;https://www.nhl.com/player/brendan-gallagher-8475848;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475848.jpg;11;RW;R;"5'9""";184;05/06/92;Edmonton, AB, CAN
+Charles;Hudon;Canadiens;https://www.nhl.com/player/charles-hudon-8476948;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476948.jpg;54;LW;L;"5'10""";190;06/23/94;Alma, QC, CAN
+Jesperi;Kotkaniemi;Canadiens;https://www.nhl.com/player/jesperi-kotkaniemi-8480829;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480829.jpg;15;C;L;"6'2""";198;07/06/00;Pori, FIN
+Artturi;Lehkonen;Canadiens;https://www.nhl.com/player/artturi-lehkonen-8477476;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477476.jpg;62;LW;L;"6'0""";176;07/04/95;Piikkio, FIN
+Ryan;Poehling;Canadiens;https://www.nhl.com/player/ryan-poehling-8480068;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480068.jpg;25;C;L;"6'2""";204;01/03/99;Lakeville, MN, USA
+Nick;Suzuki;Canadiens;https://www.nhl.com/player/nick-suzuki-8480018;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480018.jpg;14;C;R;"5'11""";201;08/10/99;London, ON, CAN
+Tomas;Tatar;Canadiens;https://www.nhl.com/player/tomas-tatar-8475193;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475193.jpg;90;LW;L;"5'10""";183;12/01/90;Ilava, SVK
+Jordan;Weal;Canadiens;https://www.nhl.com/player/jordan-weal-8475738;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475738.jpg;43;C;R;"5'10""";180;04/15/92;North Vancouver, BC, CAN
+Dale;Weise;Canadiens;https://www.nhl.com/player/dale-weise-8474668;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474668.jpg;22;RW;R;"6'2""";196;08/05/88;Winnipeg, MB, CAN
+Josh;Brook;Canadiens;https://www.nhl.com/player/josh-brook-8479990;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479990.jpg;46;D;R;"6'1""";193;06/17/99;Roblin, MB, CAN
+Ben;Chiarot;Canadiens;https://www.nhl.com/player/ben-chiarot-8475279;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475279.jpg;8;D;L;"6'3""";225;05/09/91;Hamilton, ON, CAN
+Joel;Edmundson;Canadiens;https://www.nhl.com/player/joel-edmundson-8476441;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476441.jpg;44;D;L;"6'4""";215;06/28/93;Brandon, MB, CAN
+Cale;Fleury;Canadiens;https://www.nhl.com/player/cale-fleury-8479985;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479985.jpg;20;D;R;"6'1""";205;11/19/98;Carlyle, SK, CAN
+Christian;Folin;Canadiens;https://www.nhl.com/player/christian-folin-8477850;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477850.jpg;32;D;R;"6'4""";204;02/09/91;Gothenburg, SWE
+Noah;Juulsen;Canadiens;https://www.nhl.com/player/noah-juulsen-8478454;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478454.jpg;58;D;R;"6'2""";198;04/02/97;Surrey, BC, CAN
+Brett;Kulak;Canadiens;https://www.nhl.com/player/brett-kulak-8476967;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476967.jpg;77;D;L;"6'2""";190;01/06/94;Edmonton, AB, CAN
+Victor;Mete;Canadiens;https://www.nhl.com/player/victor-mete-8479376;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479376.jpg;53;D;L;"5'9""";187;06/07/98;Woodbridge, ON, CAN
+Gustav;Olofsson;Canadiens;https://www.nhl.com/player/gustav-olofsson-8477467;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477467.jpg;51;D;L;"6'2""";200;12/01/94;Boras, SWE
+Xavier;Ouellet;Canadiens;https://www.nhl.com/player/xavier-ouellet-8476443;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476443.jpg;61;D;L;"6'1""";193;07/29/93;Bayonne, FRA
+Jeff;Petry;Canadiens;https://www.nhl.com/player/jeff-petry-8473507;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473507.jpg;26;D;R;"6'3""";201;12/09/87;Ann Arbor, MI, USA
+Shea;Weber;Canadiens;https://www.nhl.com/player/shea-weber-8470642;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470642.jpg;6;D;R;"6'4""";230;08/14/85;Sicamous, BC, CAN
+Jake;Allen;Canadiens;https://www.nhl.com/player/jake-allen-8474596;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474596.jpg;34;G;--;"6'2""";203;08/07/90;Fredericton, NB, CAN
+Charlie;Lindgren;Canadiens;https://www.nhl.com/player/charlie-lindgren-8479292;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479292.jpg;39;G;--;"6'1""";180;12/18/93;Lakeville, MN, USA
+Michael;McNiven;Canadiens;https://www.nhl.com/player/michael-mcniven-8478933;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478933.jpg;70;G;--;"6'1""";205;07/09/97;Winnipeg, MB, CAN
+Carey;Price;Canadiens;https://www.nhl.com/player/carey-price-8471679;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471679.jpg;31;G;--;"6'3""";217;08/16/87;Anahim Lake, BC, CAN
+Cayden;Primeau;Canadiens;https://www.nhl.com/player/cayden-primeau-8480051;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480051.jpg;30;G;--;"6'3""";198;08/11/99;Farmington Hills, MI, USA
+Justin;Bailey;Canucks;https://www.nhl.com/player/justin-bailey-8477473;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477473.jpg;38;RW;R;"6'4""";214;07/01/95;Buffalo, NY, USA
+Jay;Beagle;Canucks;https://www.nhl.com/player/jay-beagle-8474291;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474291.jpg;83;C;R;"6'3""";210;10/16/85;Calgary, AB, CAN
+Brock;Boeser;Canucks;https://www.nhl.com/player/brock-boeser-8478444;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478444.jpg;6;RW;R;"6'1""";208;02/25/97;Burnsville, MN, USA
+Loui;Eriksson;Canucks;https://www.nhl.com/player/loui-eriksson-8470626;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470626.jpg;21;LW;L;"6'2""";179;07/17/85;Gothenburg, SWE
+Micheal;Ferland;Canucks;https://www.nhl.com/player/micheal-ferland-8475907;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475907.jpg;79;LW;L;"6'1""";217;04/20/92;Swan River, MB, CAN
+Adam;Gaudette;Canucks;https://www.nhl.com/player/adam-gaudette-8478874;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478874.jpg;88;C;R;"6'1""";170;10/03/96;Braintree, MA, USA
+Tyler;Graovac;Canucks;https://www.nhl.com/player/tyler-graovac-8476344;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476344.jpg;44;C;L;"6'5""";208;04/27/93;Brampton, ON, CAN
+Bo;Horvat;Canucks;https://www.nhl.com/player/bo-horvat-8477500;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477500.jpg;53;C;L;"6'0""";215;04/05/95;London, ON, CAN
+Zack;MacEwen;Canucks;https://www.nhl.com/player/zack-macewen-8479772;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479772.jpg;71;C;R;"6'3""";205;07/08/96;Charlottetown, PE, CAN
+J.T.;Miller;Canucks;https://www.nhl.com/player/j-t-miller-8476468;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476468.jpg;9;C;L;"6'1""";218;03/14/93;East Palestine, OH, USA
+Tyler;Motte;Canucks;https://www.nhl.com/player/tyler-motte-8477353;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477353.jpg;64;C;L;"5'10""";192;03/10/95;St. Clair, MI, USA
+Tanner;Pearson;Canucks;https://www.nhl.com/player/tanner-pearson-8476871;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476871.jpg;70;LW;L;"6'1""";201;08/10/92;Kitchener, ON, CAN
+Elias;Pettersson;Canucks;https://www.nhl.com/player/elias-pettersson-8480012;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480012.jpg;40;C;L;"6'2""";176;11/12/98;Sundsvall, SWE
+Antoine;Roussel;Canucks;https://www.nhl.com/player/antoine-roussel-8474849;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474849.jpg;26;LW;L;"5'11""";199;11/21/89;Roubaix, FRA
+Brandon;Sutter;Canucks;https://www.nhl.com/player/brandon-sutter-8474091;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474091.jpg;20;C;R;"6'3""";190;02/14/89;Huntington, NY, USA
+Tyler;Toffoli;Canucks;https://www.nhl.com/player/tyler-toffoli-8475726;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475726.jpg;73;RW;R;"6'0""";197;04/24/92;Scarborough, ON, CAN
+Jake;Virtanen;Canucks;https://www.nhl.com/player/jake-virtanen-8477937;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477937.jpg;18;RW;R;"6'1""";226;08/17/96;Langley, BC, CAN
+Jordie;Benn;Canucks;https://www.nhl.com/player/jordie-benn-8474818;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474818.jpg;4;D;L;"6'2""";199;07/26/87;Victoria, BC, CAN
+Jalen;Chatfield;Canucks;https://www.nhl.com/player/jalen-chatfield-8478970;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478970.jpg;63;D;R;"6'1""";188;05/15/96;Ypsilanti, MI, USA
+Alexander;Edler;Canucks;https://www.nhl.com/player/alexander-edler-8471303;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471303.jpg;23;D;L;"6'3""";212;04/21/86;Ostersund, SWE
+Oscar;Fantenberg;Canucks;https://www.nhl.com/player/oscar-fantenberg-8480147;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480147.jpg;5;D;L;"6'0""";206;10/07/91;Ljunby, SWE
+Quinn;Hughes;Canucks;https://www.nhl.com/player/quinn-hughes-8480800;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480800.jpg;43;D;L;"5'10""";170;10/14/99;Orlando, FL, USA
+Olli;Juolevi;Canucks;https://www.nhl.com/player/olli-juolevi-8479355;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479355.jpg;48;D;L;"6'2""";182;05/05/98;Helsinki, FIN
+Tyler;Myers;Canucks;https://www.nhl.com/player/tyler-myers-8474574;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474574.jpg;57;D;R;"6'8""";229;02/01/90;Houston, TX, USA
+Brogan;Rafferty;Canucks;https://www.nhl.com/player/brogan-rafferty-8481479;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481479.jpg;3;D;R;"6'0""";195;05/28/95;West Dundee, IL, USA
+Troy;Stecher;Canucks;https://www.nhl.com/player/troy-stecher-8479442;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479442.jpg;51;D;R;"5'10""";186;04/07/94;Richmond, BC, CAN
+Christopher;Tanev;Canucks;https://www.nhl.com/player/christopher-tanev-8475690;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475690.jpg;8;D;R;"6'2""";197;12/20/89;Toronto, ON, CAN
+Thatcher;Demko;Canucks;https://www.nhl.com/player/thatcher-demko-8477967;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477967.jpg;35;G;--;"6'4""";192;12/08/95;San Diego, CA, USA
+Louis;Domingue;Canucks;https://www.nhl.com/player/louis-domingue-8475839;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475839.jpg;30;G;--;"6'3""";208;03/06/92;St-Hyacinthe, QC, CAN
+Jake;Kielly;Canucks;https://www.nhl.com/player/jake-kielly-8481478;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481478.jpg;30;G;--;"6'2""";201;09/10/96;Eden Prairie, MN, USA
+Jacob;Markstrom;Canucks;https://www.nhl.com/player/jacob-markstrom-8474593;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474593.jpg;25;G;--;"6'6""";206;01/31/90;Gävle, SWE
+Nicklas;Backstrom;Capitals;https://www.nhl.com/player/nicklas-backstrom-8473563;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473563.jpg;19;C;L;"6'1""";206;11/23/87;Gävle, SWE
+Travis;Boyd;Capitals;https://www.nhl.com/player/travis-boyd-8476329;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476329.jpg;72;C;R;"6'0""";190;09/14/93;Hopkins, MN, USA
+Nic;Dowd;Capitals;https://www.nhl.com/player/nic-dowd-8475343;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475343.jpg;26;C;R;"6'1""";195;05/27/90;Huntsville, AL, USA
+Lars;Eller;Capitals;https://www.nhl.com/player/lars-eller-8474189;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474189.jpg;20;C;L;"6'2""";205;05/08/89;Rodovre, DNK
+Shane;Gersich;Capitals;https://www.nhl.com/player/shane-gersich-8478063;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478063.jpg;63;LW;L;"6'0""";180;07/10/96;Chaska, MN, USA
+Carl;Hagelin;Capitals;https://www.nhl.com/player/carl-hagelin-8474176;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474176.jpg;62;LW;L;"6'0""";185;08/23/88;Sodertalje, SWE
+Garnet;Hathaway;Capitals;https://www.nhl.com/player/garnet-hathaway-8477903;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477903.jpg;21;RW;R;"6'3""";210;11/23/91;Kennebunkport, ME, USA
+Ilya;Kovalchuk;Capitals;https://www.nhl.com/player/ilya-kovalchuk-8469454;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8469454.jpg;17;LW;R;"6'3""";222;04/15/83;Tver, RUS
+Evgeny;Kuznetsov;Capitals;https://www.nhl.com/player/evgeny-kuznetsov-8475744;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475744.jpg;92;C;L;"6'2""";197;05/19/92;Chelyabinsk, RUS
+Philippe;Maillet;Capitals;https://www.nhl.com/player/philippe-maillet-8477544;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477544.jpg;16;C;L;"5'10""";190;11/07/92;Lachenai, QC, CAN
+Beck;Malenstyn;Capitals;https://www.nhl.com/player/beck-malenstyn-8479359;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479359.jpg;47;LW;L;"6'3""";200;02/04/98;Delta, BC, CAN
+Connor;McMichael;Capitals;https://www.nhl.com/player/connor-mcmichael-8481580;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481580.jpg;24;C;L;"6'0""";183;01/15/01;Ajax, ON, CAN
+T.J.;Oshie;Capitals;https://www.nhl.com/player/t-j-oshie-8471698;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471698.jpg;77;RW;R;"6'0""";195;12/23/86;Everett, WA, USA
+Alex;Ovechkin;Capitals;https://www.nhl.com/player/alex-ovechkin-8471214;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471214.jpg;8;LW;R;"6'3""";236;09/17/85;Moscow, RUS
+Richard;Panik;Capitals;https://www.nhl.com/player/richard-panik-8475209;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475209.jpg;14;RW;L;"6'2""";202;02/07/91;Martin, SVK
+Garrett;Pilon;Capitals;https://www.nhl.com/player/garrett-pilon-8479516;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479516.jpg;40;C;R;"6'0""";192;04/13/98;Kindersley, SK, CAN
+Brian;Pinho;Capitals;https://www.nhl.com/player/brian-pinho-8477314;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477314.jpg;64;C;R;"6'1""";193;05/11/95;Beverly, MA, USA
+Daniel;Sprong;Capitals;https://www.nhl.com/player/daniel-sprong-8478466;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478466.jpg;10;RW;R;"5'11""";191;03/17/97;Amsterdam, NLD
+Jakub;Vrana;Capitals;https://www.nhl.com/player/jakub-vrana-8477944;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477944.jpg;13;LW;L;"6'0""";195;02/28/96;Prague, CZE
+Tom;Wilson;Capitals;https://www.nhl.com/player/tom-wilson-8476880;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476880.jpg;43;RW;R;"6'4""";220;03/29/94;Toronto, ON, CAN
+Alexander;Alexeyev;Capitals;https://www.nhl.com/player/alexander-alexeyev-8480823;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480823.jpg;27;D;L;"6'4""";210;11/15/99;St. Petersburg, RUS
+John;Carlson;Capitals;https://www.nhl.com/player/john-carlson-8474590;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474590.jpg;74;D;R;"6'3""";217;01/10/90;Natick, MA, USA
+Brenden;Dillon;Capitals;https://www.nhl.com/player/brenden-dillon-8475455;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475455.jpg;4;D;L;"6'4""";225;11/13/90;New Westminster, BC, CAN
+Martin;Fehervary;Capitals;https://www.nhl.com/player/martin-fehervary-8480796;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480796.jpg;42;D;L;"6'2""";200;10/06/99;Bratislava, SVK
+Radko;Gudas;Capitals;https://www.nhl.com/player/radko-gudas-8475462;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475462.jpg;33;D;R;"6'0""";205;06/05/90;Prague, CZE
+Nick;Jensen;Capitals;https://www.nhl.com/player/nick-jensen-8475324;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475324.jpg;3;D;R;"6'1""";196;09/21/90;Rogers, MN, USA
+Michal;Kempny;Capitals;https://www.nhl.com/player/michal-kempny-8479482;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479482.jpg;6;D;L;"6'1""";195;09/08/90;Hodonin, CZE
+Tyler;Lewington;Capitals;https://www.nhl.com/player/tyler-lewington-8477343;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477343.jpg;78;D;R;"6'2""";200;12/05/94;Edmonton, AB, CAN
+Dmitry;Orlov;Capitals;https://www.nhl.com/player/dmitry-orlov-8475200;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475200.jpg;9;D;L;"5'11""";208;07/23/91;Novokuznetsk, RUS
+Jonas;Siegenthaler;Capitals;https://www.nhl.com/player/jonas-siegenthaler-8478399;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478399.jpg;34;D;L;"6'3""";210;05/06/97;Zurich, CHE
+Pheonix;Copley;Capitals;https://www.nhl.com/player/pheonix-copley-8477831;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477831.jpg;1;G;--;"6'4""";200;01/18/92;North Pole, AK, USA
+Braden;Holtby;Capitals;https://www.nhl.com/player/braden-holtby-8474651;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474651.jpg;70;G;--;"6'2""";214;09/16/89;Lloydminster, SK, CAN
+Ilya;Samsonov;Capitals;https://www.nhl.com/player/ilya-samsonov-8478492;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478492.jpg;30;G;--;"6'3""";208;02/22/97;Magnitogorsk, RUS
+Vitek;Vanecek;Capitals;https://www.nhl.com/player/vitek-vanecek-8477970;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477970.jpg;41;G;--;"6'2""";187;01/09/96;Havlickuv Brod, CZE
+Lawson;Crouse;Coyotes;https://www.nhl.com/player/lawson-crouse-8478474;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478474.jpg;67;LW;L;"6'4""";220;06/23/97;Mt. Brydges, ON, CAN
+Christian;Dvorak;Coyotes;https://www.nhl.com/player/christian-dvorak-8477989;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477989.jpg;18;C;L;"6'0""";195;02/02/96;Palos, IL, USA
+Christian;Fischer;Coyotes;https://www.nhl.com/player/christian-fischer-8478432;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478432.jpg;36;RW;R;"6'2""";214;04/15/97;Chicago, IL, USA
+Conor;Garland;Coyotes;https://www.nhl.com/player/conor-garland-8478856;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478856.jpg;83;RW;R;"5'10""";165;03/11/96;Scituate, MA, USA
+Taylor;Hall;Coyotes;https://www.nhl.com/player/taylor-hall-8475791;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475791.jpg;91;LW;L;"6'1""";205;11/14/91;Calgary, AB, CAN
+Barrett;Hayton;Coyotes;https://www.nhl.com/player/barrett-hayton-8480849;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480849.jpg;29;C;L;"6'1""";190;06/09/00;Peterborough, ON, CAN
+Vinnie;Hinostroza;Coyotes;https://www.nhl.com/player/vinnie-hinostroza-8476994;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476994.jpg;13;RW;R;"5'9""";173;04/03/94;Chicago, IL, USA
+Clayton;Keller;Coyotes;https://www.nhl.com/player/clayton-keller-8479343;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479343.jpg;9;RW;L;"5'10""";170;07/29/98;Chesterfield, MO, USA
+Phil;Kessel;Coyotes;https://www.nhl.com/player/phil-kessel-8473548;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473548.jpg;81;RW;R;"6'0""";202;10/02/87;Madison, WI, USA
+Brad;Richardson;Coyotes;https://www.nhl.com/player/brad-richardson-8470755;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470755.jpg;15;C;L;"6'0""";190;02/04/85;Belleville, ON, CAN
+Nick;Schmaltz;Coyotes;https://www.nhl.com/player/nick-schmaltz-8477951;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477951.jpg;8;C;R;"6'0""";177;02/23/96;Madison, WI, USA
+Carl;Soderberg;Coyotes;https://www.nhl.com/player/carl-soderberg-8471262;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471262.jpg;34;C;L;"6'3""";210;10/12/85;Malmö, SWE
+Derek;Stepan;Coyotes;https://www.nhl.com/player/derek-stepan-8474613;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474613.jpg;21;C;R;"6'0""";196;06/18/90;Hastings, MN, USA
+Jakob;Chychrun;Coyotes;https://www.nhl.com/player/jakob-chychrun-8479345;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479345.jpg;6;D;L;"6'2""";210;03/31/98;Boca Raton, FL, USA
+Jason;Demers;Coyotes;https://www.nhl.com/player/jason-demers-8474218;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474218.jpg;55;D;R;"6'1""";195;06/09/88;Dorval, QC, CAN
+Oliver;Ekman-Larsson;Coyotes;https://www.nhl.com/player/oliver-ekman-larsson-8475171;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475171.jpg;23;D;L;"6'2""";200;07/17/91;Karlskrona, SWE
+Alex;Goligoski;Coyotes;https://www.nhl.com/player/alex-goligoski-8471274;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471274.jpg;33;D;L;"5'11""";185;07/30/85;Grand Rapids, MN, USA
+Niklas;Hjalmarsson;Coyotes;https://www.nhl.com/player/niklas-hjalmarsson-8471769;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471769.jpg;4;D;L;"6'3""";197;06/06/87;Eksjo, SWE
+Ilya;Lyubushkin;Coyotes;https://www.nhl.com/player/ilya-lyubushkin-8480950;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480950.jpg;46;D;R;"6'2""";201;04/06/94;Moscow, RUS
+Jordan;Oesterle;Coyotes;https://www.nhl.com/player/jordan-oesterle-8477851;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477851.jpg;82;D;L;"6'0""";182;06/25/92;Dearborn Heights, MI, USA
+Darcy;Kuemper;Coyotes;https://www.nhl.com/player/darcy-kuemper-8475311;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475311.jpg;35;G;--;"6'5""";215;05/05/90;Saskatoon, SK, CAN
+Antti;Raanta;Coyotes;https://www.nhl.com/player/antti-raanta-8477293;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477293.jpg;32;G;--;"6'0""";195;05/12/89;Rauma, FIN
+Joey;Anderson;Devils;https://www.nhl.com/player/joey-anderson-8479315;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479315.jpg;14;RW;R;"5'11""";190;06/19/98;Roseville, MN, USA
+Jesper;Bratt;Devils;https://www.nhl.com/player/jesper-bratt-8479407;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479407.jpg;63;LW;L;"5'10""";175;07/30/98;Stockholm, SWE
+Nikita;Gusev;Devils;https://www.nhl.com/player/nikita-gusev-8477038;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477038.jpg;97;LW;R;"5'9""";163;07/08/92;Moscow, RUS
+John;Hayden;Devils;https://www.nhl.com/player/john-hayden-8477401;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477401.jpg;15;C;R;"6'3""";215;02/14/95;Chicago, IL, USA
+Nico;Hischier;Devils;https://www.nhl.com/player/nico-hischier-8480002;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480002.jpg;13;C;L;"6'1""";175;01/04/99;Brig, CHE
+Jack;Hughes;Devils;https://www.nhl.com/player/jack-hughes-8481559;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481559.jpg;86;C;L;"5'11""";170;05/14/01;Orlando, FL, USA
+Michael;McLeod;Devils;https://www.nhl.com/player/michael-mcleod-8479415;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479415.jpg;41;C;R;"6'2""";188;02/03/98;Mississauga, ON, CAN
+Kyle;Palmieri;Devils;https://www.nhl.com/player/kyle-palmieri-8475151;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475151.jpg;21;RW;R;"5'11""";185;02/01/91;Smithtown, NY, USA
+Kevin;Rooney;Devils;https://www.nhl.com/player/kevin-rooney-8479291;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479291.jpg;16;C;L;"6'2""";190;05/21/93;Canton, MA, USA
+Miles;Wood;Devils;https://www.nhl.com/player/miles-wood-8477425;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477425.jpg;44;LW;L;"6'2""";195;09/13/95;Buffalo, NY, USA
+Pavel;Zacha;Devils;https://www.nhl.com/player/pavel-zacha-8478401;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478401.jpg;37;C;L;"6'3""";210;04/06/97;Brno, CZE
+Travis;Zajac;Devils;https://www.nhl.com/player/travis-zajac-8471233;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471233.jpg;19;C;R;"6'2""";185;05/13/85;Winnipeg, MB, CAN
+Will;Butcher;Devils;https://www.nhl.com/player/will-butcher-8477355;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477355.jpg;8;D;L;"5'10""";190;01/06/95;Sun Prairie, WI, USA
+Connor;Carrick;Devils;https://www.nhl.com/player/connor-carrick-8476941;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476941.jpg;5;D;R;"5'11""";192;04/13/94;Orland Park, IL, USA
+Fredrik;Claesson;Devils;https://www.nhl.com/player/fredrik-claesson-8476368;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476368.jpg;33;D;L;"6'1""";196;11/24/92;Stockholm, SWE
+Dakota;Mermis;Devils;https://www.nhl.com/player/dakota-mermis-8477541;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477541.jpg;32;D;L;"6'0""";195;01/05/94;Alton, IL, USA
+Mirco;Mueller;Devils;https://www.nhl.com/player/mirco-mueller-8477509;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477509.jpg;25;D;L;"6'3""";210;03/21/95;Winterthur, CHE
+Damon;Severson;Devils;https://www.nhl.com/player/damon-severson-8476923;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476923.jpg;28;D;R;"6'2""";205;08/07/94;Melville, SK, CAN
+P.K.;Subban;Devils;https://www.nhl.com/player/p-k-subban-8474056;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474056.jpg;76;D;R;"6'0""";210;05/13/89;Toronto, ON, CAN
+Mackenzie;Blackwood;Devils;https://www.nhl.com/player/mackenzie-blackwood-8478406;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478406.jpg;29;G;--;"6'4""";225;12/09/96;Thunder Bay, ON, CAN
+Cory;Schneider;Devils;https://www.nhl.com/player/cory-schneider-8471239;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471239.jpg;35;G;--;"6'3""";200;03/18/86;Marblehead, MA, USA
+Andrew;Agozzino;Ducks;https://www.nhl.com/player/andrew-agozzino-8475461;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475461.jpg;26;LW;L;"5'10""";187;01/03/91;Kleinburg, ON, CAN
+David;Backes;Ducks;https://www.nhl.com/player/david-backes-8470655;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470655.jpg;21;RW;R;"6'3""";215;05/01/84;Minneapolis, MN, USA
+Nicolas;Deslauriers;Ducks;https://www.nhl.com/player/nicolas-deslauriers-8475235;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475235.jpg;20;LW;L;"6'3""";219;02/22/91;LaSalle, QC, CAN
+Ryan;Getzlaf;Ducks;https://www.nhl.com/player/ryan-getzlaf-8470612;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470612.jpg;15;C;R;"6'3""";228;05/10/85;Regina, SK, CAN
+Danton;Heinen;Ducks;https://www.nhl.com/player/danton-heinen-8478046;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478046.jpg;43;LW;L;"6'1""";188;07/05/95;Langley, BC, CAN
+Adam;Henrique;Ducks;https://www.nhl.com/player/adam-henrique-8474641;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474641.jpg;14;C;L;"6'0""";188;02/06/90;Brantford, ON, CAN
+Max;Jones;Ducks;https://www.nhl.com/player/max-jones-8479368;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479368.jpg;49;LW;L;"6'1""";220;02/17/98;Rochester, MI, USA
+Sonny;Milano;Ducks;https://www.nhl.com/player/sonny-milano-8477947;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477947.jpg;22;LW;L;"6'0""";194;05/12/96;Massapequa, NY, USA
+Rickard;Rakell;Ducks;https://www.nhl.com/player/rickard-rakell-8476483;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476483.jpg;67;LW;R;"6'0""";196;05/05/93;Sundbyberg, SWE
+Carter;Rowney;Ducks;https://www.nhl.com/player/carter-rowney-8477240;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477240.jpg;24;C;R;"6'1""";208;05/10/89;Grande Prairie, AB, CAN
+Jakob;Silfverberg;Ducks;https://www.nhl.com/player/jakob-silfverberg-8475164;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475164.jpg;33;RW;R;"6'0""";208;10/13/90;Gävle, SWE
+Sam;Steel;Ducks;https://www.nhl.com/player/sam-steel-8479351;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479351.jpg;34;C;L;"5'11""";189;02/03/98;Ardrossan, AB, CAN
+Michael;Del Zotto;Ducks;https://www.nhl.com/player/michael-del-zotto-8474584;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474584.jpg;44;D;L;"6'0""";195;06/24/90;Stouffville, ON, CAN
+Christian;Djoos;Ducks;https://www.nhl.com/player/christian-djoos-8477043;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477043.jpg;29;D;L;"6'0""";180;08/06/94;Gothenburg, SWE
+Cam;Fowler;Ducks;https://www.nhl.com/player/cam-fowler-8475764;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475764.jpg;4;D;L;"6'1""";207;12/05/91;Windsor, ON, CAN
+Erik;Gudbranson;Ducks;https://www.nhl.com/player/erik-gudbranson-8475790;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475790.jpg;6;D;R;"6'5""";217;01/07/92;Ottawa, ON, CAN
+Matt;Irwin;Ducks;https://www.nhl.com/player/matt-irwin-8475625;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475625.jpg;52;D;L;"6'1""";207;11/29/87;Victoria, BC, CAN
+Jacob;Larsson;Ducks;https://www.nhl.com/player/jacob-larsson-8478491;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478491.jpg;32;D;L;"6'2""";190;04/29/97;Ljungby, SWE
+Hampus;Lindholm;Ducks;https://www.nhl.com/player/hampus-lindholm-8476854;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476854.jpg;47;D;L;"6'3""";208;01/20/94;Helsingborg, SWE
+Josh;Manson;Ducks;https://www.nhl.com/player/josh-manson-8476312;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476312.jpg;42;D;R;"6'3""";224;10/07/91;Hinsdale, IL, USA
+John;Gibson;Ducks;https://www.nhl.com/player/john-gibson-8476434;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476434.jpg;36;G;--;"6'2""";207;07/14/93;Pittsburgh, PA, USA
+Ryan;Miller;Ducks;https://www.nhl.com/player/ryan-miller-8468011;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8468011.jpg;30;G;--;"6'2""";170;07/17/80;East Lansing, MI, USA
+Mikael;Backlund;Flames;https://www.nhl.com/player/mikael-backlund-8474150;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474150.jpg;11;C;L;"6'0""";200;03/17/89;Vasteras, SWE
+Sam;Bennett;Flames;https://www.nhl.com/player/sam-bennett-8477935;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477935.jpg;93;C;L;"6'1""";195;06/20/96;Holland Landing, ON, CAN
+Austin;Czarnik;Flames;https://www.nhl.com/player/austin-czarnik-8478512;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478512.jpg;27;C;R;"5'9""";170;12/12/92;Detroit, MI, USA
+Dillon;Dube;Flames;https://www.nhl.com/player/dillon-dube-8479346;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479346.jpg;29;C;L;"5'11""";187;07/20/98;Golden, BC, CAN
+Byron;Froese;Flames;https://www.nhl.com/player/byron-froese-8475278;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475278.jpg;38;C;R;"6'1""";202;03/12/91;Winkler, MB, CAN
+Johnny;Gaudreau;Flames;https://www.nhl.com/player/johnny-gaudreau-8476346;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476346.jpg;13;LW;L;"5'9""";165;08/13/93;Salem, NJ, USA
+Mark;Jankowski;Flames;https://www.nhl.com/player/mark-jankowski-8476873;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476873.jpg;77;C;L;"6'4""";212;09/13/94;Hamilton, ON, CAN
+Elias;Lindholm;Flames;https://www.nhl.com/player/elias-lindholm-8477496;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477496.jpg;28;C;R;"6'1""";195;12/02/94;Boden, SWE
+Milan;Lucic;Flames;https://www.nhl.com/player/milan-lucic-8473473;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473473.jpg;17;LW;L;"6'3""";231;06/07/88;Vancouver, BC, CAN
+Andrew;Mangiapane;Flames;https://www.nhl.com/player/andrew-mangiapane-8478233;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478233.jpg;88;LW;L;"5'10""";184;04/04/96;Toronto, ON, CAN
+Sean;Monahan;Flames;https://www.nhl.com/player/sean-monahan-8477497;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477497.jpg;23;C;L;"6'2""";200;10/12/94;Brampton, ON, CAN
+Alan;Quine;Flames;https://www.nhl.com/player/alan-quine-8476409;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476409.jpg;89;C;L;"6'0""";203;02/25/93;Belleville, ON, CAN
+Tobias;Rieder;Flames;https://www.nhl.com/player/tobias-rieder-8476356;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476356.jpg;16;C;L;"5'11""";186;01/10/93;Landshut, DEU
+Zac;Rinaldo;Flames;https://www.nhl.com/player/zac-rinaldo-8474736;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474736.jpg;36;C;L;"5'10""";192;06/15/90;Mississauga, ON, CAN
+Buddy;Robinson;Flames;https://www.nhl.com/player/buddy-robinson-8477210;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477210.jpg;53;RW;R;"6'6""";232;09/30/91;Bellmawr, NJ, USA
+Derek;Ryan;Flames;https://www.nhl.com/player/derek-ryan-8478585;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478585.jpg;10;C;R;"5'10""";185;12/29/86;Spokane, WA, USA
+Matthew;Tkachuk;Flames;https://www.nhl.com/player/matthew-tkachuk-8479314;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479314.jpg;19;LW;L;"6'2""";202;12/11/97;Scottsdale, AZ, USA
+Rasmus;Andersson;Flames;https://www.nhl.com/player/rasmus-andersson-8478397;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478397.jpg;4;D;R;"6'1""";214;10/27/96;Malmö, SWE
+TJ;Brodie;Flames;https://www.nhl.com/player/tj-brodie-8474673;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474673.jpg;7;D;L;"6'1""";185;06/07/90;Chatham, ON, CAN
+Derek;Forbort;Flames;https://www.nhl.com/player/derek-forbort-8475762;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475762.jpg;20;D;L;"6'4""";219;03/04/92;Duluth, MN, USA
+Mark;Giordano;Flames;https://www.nhl.com/player/mark-giordano-8470966;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470966.jpg;5;D;L;"6'1""";200;10/03/83;Toronto, ON, CAN
+Erik;Gustafsson;Flames;https://www.nhl.com/player/erik-gustafsson-8476979;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476979.jpg;56;D;L;"6'0""";197;03/14/92;Nynashamn, SWE
+Travis;Hamonic;Flames;https://www.nhl.com/player/travis-hamonic-8474612;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474612.jpg;24;D;R;"6'2""";205;08/16/90;St. Malo, MB, CAN
+Noah;Hanifin;Flames;https://www.nhl.com/player/noah-hanifin-8478396;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478396.jpg;55;D;L;"6'3""";215;01/25/97;Boston, MA, USA
+Oliver;Kylington;Flames;https://www.nhl.com/player/oliver-kylington-8478430;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478430.jpg;58;D;L;"6'0""";183;05/19/97;Stockholm, SWE
+Michael;Stone;Flames;https://www.nhl.com/player/michael-stone-8474628;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474628.jpg;26;D;R;"6'3""";210;06/07/90;Winnipeg, MB, CAN
+Juuso;Valimaki;Flames;https://www.nhl.com/player/juuso-valimaki-8479976;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479976.jpg;8;D;L;"6'2""";212;10/06/98;Tampere, FIN
+Alexander;Yelesin;Flames;https://www.nhl.com/player/alexander-yelesin-8481630;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481630.jpg;45;D;R;"6'0""";195;02/07/96;Yaroslavl, RUS
+Jon;Gillies;Flames;https://www.nhl.com/player/jon-gillies-8476903;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476903.jpg;32;G;--;"6'6""";223;01/22/94;Concord, NH, USA
+David;Rittich;Flames;https://www.nhl.com/player/david-rittich-8479496;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479496.jpg;33;G;--;"6'3""";206;08/19/92;Jihlava, CZE
+Cam;Talbot;Flames;https://www.nhl.com/player/cam-talbot-8475660;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475660.jpg;39;G;--;"6'4""";196;07/05/87;Caledonia, ON, CAN
+Artyom;Zagidulin;Flames;https://www.nhl.com/player/artyom-zagidulin-8481501;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481501.jpg;50;G;--;"6'2""";180;08/08/95;Magnitogorsk, RUS
+Andy;Andreoff;Flyers;https://www.nhl.com/player/andy-andreoff-8476404;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476404.jpg;10;C;L;"6'1""";203;05/17/91;Pickering, ON, CAN
+Nicolas;Aube-Kubel;Flyers;https://www.nhl.com/player/nicolas-aube-kubel-8477979;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477979.jpg;62;RW;R;"5'11""";187;05/10/96;Slave Lake, AB, CAN
+Connor;Bunnaman;Flyers;https://www.nhl.com/player/connor-bunnaman-8479382;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479382.jpg;82;C;L;"6'1""";207;04/16/98;Guelph, ON, CAN
+Sean;Couturier;Flyers;https://www.nhl.com/player/sean-couturier-8476461;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476461.jpg;14;C;L;"6'3""";211;12/07/92;Phoenix, AZ, USA
+Joel;Farabee;Flyers;https://www.nhl.com/player/joel-farabee-8480797;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480797.jpg;49;LW;L;"6'0""";164;02/25/00;Syracuse, NY, USA
+Morgan;Frost;Flyers;https://www.nhl.com/player/morgan-frost-8480028;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480028.jpg;48;C;L;"5'11""";170;05/14/99;Aurora, ON, CAN
+Claude;Giroux;Flyers;https://www.nhl.com/player/claude-giroux-8473512;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473512.jpg;28;C;R;"5'11""";185;01/12/88;Hearst, ON, CAN
+Derek;Grant;Flyers;https://www.nhl.com/player/derek-grant-8474683;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474683.jpg;38;C;L;"6'3""";206;04/20/90;Abbotsford, BC, CAN
+Kevin;Hayes;Flyers;https://www.nhl.com/player/kevin-hayes-8475763;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475763.jpg;13;C;L;"6'5""";216;05/08/92;Dorchester, MA, USA
+Travis;Konecny;Flyers;https://www.nhl.com/player/travis-konecny-8478439;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478439.jpg;11;RW;R;"5'10""";175;03/11/97;London, ON, CAN
+Scott;Laughton;Flyers;https://www.nhl.com/player/scott-laughton-8476872;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476872.jpg;21;C;L;"6'1""";190;05/30/94;Oakville, ON, CAN
+Oskar;Lindblom;Flyers;https://www.nhl.com/player/oskar-lindblom-8478067;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478067.jpg;23;LW;L;"6'1""";191;08/15/96;Gävle, SWE
+Tyler;Pitlick;Flyers;https://www.nhl.com/player/tyler-pitlick-8475752;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475752.jpg;18;C;R;"6'2""";200;11/01/91;Minneapolis, MN, USA
+Michael;Raffl;Flyers;https://www.nhl.com/player/michael-raffl-8477290;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477290.jpg;12;LW;L;"6'0""";200;12/01/88;Villach, AUT
+Chris;Stewart;Flyers;https://www.nhl.com/player/chris-stewart-8473485;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473485.jpg;44;RW;R;"6'2""";242;10/30/87;Toronto, ON, CAN
+Nate;Thompson;Flyers;https://www.nhl.com/player/nate-thompson-8470775;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470775.jpg;44;C;L;"6'1""";205;10/05/84;Anchorage, AK, USA
+James;van Riemsdyk;Flyers;https://www.nhl.com/player/james-van-riemsdyk-8474037;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474037.jpg;25;LW;L;"6'3""";217;05/04/89;Middletown, NJ, USA
+Jakub;Voracek;Flyers;https://www.nhl.com/player/jakub-voracek-8474161;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474161.jpg;93;RW;L;"6'2""";214;08/15/89;Kladno, CZE
+Justin;Braun;Flyers;https://www.nhl.com/player/justin-braun-8474027;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474027.jpg;61;D;R;"6'2""";205;02/10/87;Minneapolis, MN, USA
+Mark;Friedman;Flyers;https://www.nhl.com/player/mark-friedman-8478017;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478017.jpg;59;D;R;"5'11""";185;12/25/95;Toronto, ON, CAN
+Shayne;Gostisbehere;Flyers;https://www.nhl.com/player/shayne-gostisbehere-8476906;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476906.jpg;53;D;L;"5'11""";180;04/20/93;Pembroke Pines, FL, USA
+Robert;Hagg;Flyers;https://www.nhl.com/player/robert-hagg-8477462;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477462.jpg;8;D;L;"6'2""";204;02/08/95;Uppsala, SWE
+Samuel;Morin;Flyers;https://www.nhl.com/player/samuel-morin-8477502;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477502.jpg;55;D;L;"6'6""";202;07/12/95;Lac-Beauport, QC, CAN
+Philippe;Myers;Flyers;https://www.nhl.com/player/philippe-myers-8479026;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479026.jpg;5;D;R;"6'5""";210;01/25/97;Moncton, NB, CAN
+Matt;Niskanen;Flyers;https://www.nhl.com/player/matt-niskanen-8471702;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471702.jpg;15;D;R;"6'1""";203;12/06/86;Virginia, MN, USA
+Ivan;Provorov;Flyers;https://www.nhl.com/player/ivan-provorov-8478500;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478500.jpg;9;D;L;"6'1""";201;01/13/97;Yaroslavl, RUS
+Travis;Sanheim;Flyers;https://www.nhl.com/player/travis-sanheim-8477948;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477948.jpg;6;D;L;"6'3""";181;03/29/96;Elkhorn, MB, CAN
+Andy;Welinski;Flyers;https://www.nhl.com/player/andy-welinski-8476407;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476407.jpg;3;D;R;"6'1""";201;04/27/93;Duluth, MN, USA
+Egor;Zamula;Flyers;https://www.nhl.com/player/egor-zamula-8481178;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481178.jpg;54;D;L;"6'3""";177;03/30/00;Chelyabinsk, RUS
+Brian;Elliott;Flyers;https://www.nhl.com/player/brian-elliott-8470880;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470880.jpg;37;G;--;"6'2""";209;04/09/85;Newmarket, ON, CAN
+Carter;Hart;Flyers;https://www.nhl.com/player/carter-hart-8479394;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479394.jpg;79;G;--;"6'2""";181;08/13/98;Sherwood Park, AB, CAN
+Alex;Lyon;Flyers;https://www.nhl.com/player/alex-lyon-8479312;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479312.jpg;34;G;--;"6'1""";201;12/09/92;Baudette, MN, USA
+William;Carrier;Golden Knights;https://www.nhl.com/player/william-carrier-8477478;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477478.jpg;28;LW;L;"6'2""";218;12/20/94;LaSalle, QC, CAN
+Nick;Cousins;Golden Knights;https://www.nhl.com/player/nick-cousins-8476393;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476393.jpg;21;C;L;"5'11""";183;07/20/93;Belleville, ON, CAN
+Reid;Duke;Golden Knights;https://www.nhl.com/player/reid-duke-8478097;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478097.jpg;37;C;R;"6'0""";191;01/28/96;Calgary, AB, CAN
+William;Karlsson;Golden Knights;https://www.nhl.com/player/william-karlsson-8476448;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476448.jpg;71;C;L;"6'0""";195;01/08/93;Marsta, SWE
+Peyton;Krebs;Golden Knights;https://www.nhl.com/player/peyton-krebs-8481522;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481522.jpg;18;C;L;"5'11""";180;01/26/01;Calgary, AB, CAN
+Jonathan;Marchessault;Golden Knights;https://www.nhl.com/player/jonathan-marchessault-8476539;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476539.jpg;81;C;R;"5'9""";180;12/27/90;Cap-Rouge, QC, CAN
+Tomas;Nosek;Golden Knights;https://www.nhl.com/player/tomas-nosek-8477931;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477931.jpg;92;LW;L;"6'2""";205;09/01/92;Pardubice, CZE
+Max;Pacioretty;Golden Knights;https://www.nhl.com/player/max-pacioretty-8474157;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474157.jpg;67;LW;L;"6'2""";215;11/20/88;New Canaan, CT, USA
+Ryan;Reaves;Golden Knights;https://www.nhl.com/player/ryan-reaves-8471817;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471817.jpg;75;RW;R;"6'2""";225;01/20/87;Winnipeg, MB, CAN
+Nicolas;Roy;Golden Knights;https://www.nhl.com/player/nicolas-roy-8478462;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478462.jpg;10;C;R;"6'4""";200;02/05/97;Amos, QC, CAN
+Dylan;Sikura;Golden Knights;https://www.nhl.com/player/dylan-sikura-8478106;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478106.jpg;95;RW;L;"5'11""";166;06/01/95;Aurora, ON, CAN
+Reilly;Smith;Golden Knights;https://www.nhl.com/player/reilly-smith-8475191;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475191.jpg;19;RW;L;"6'1""";183;04/01/91;Mimico, ON, CAN
+Paul;Stastny;Golden Knights;https://www.nhl.com/player/paul-stastny-8471669;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471669.jpg;26;C;L;"6'0""";193;12/27/85;Quebec City, QC, CAN
+Chandler;Stephenson;Golden Knights;https://www.nhl.com/player/chandler-stephenson-8476905;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476905.jpg;20;C;L;"6'0""";208;04/22/94;Saskatoon, SK, CAN
+Mark;Stone;Golden Knights;https://www.nhl.com/player/mark-stone-8475913;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475913.jpg;61;RW;R;"6'3""";202;05/13/92;Winnipeg, MB, CAN
+Alex;Tuch;Golden Knights;https://www.nhl.com/player/alex-tuch-8477949;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477949.jpg;89;RW;R;"6'4""";220;05/10/96;Syracuse, NY, USA
+Dylan;Coghlan;Golden Knights;https://www.nhl.com/player/dylan-coghlan-8479639;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479639.jpg;52;D;R;"6'2""";190;02/19/98;Duncan, BC, CAN
+Deryk;Engelland;Golden Knights;https://www.nhl.com/player/deryk-engelland-8468674;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8468674.jpg;5;D;R;"6'2""";212;04/03/82;Edmonton, AB, CAN
+Nick;Holden;Golden Knights;https://www.nhl.com/player/nick-holden-8474207;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474207.jpg;22;D;L;"6'4""";212;05/15/87;St. Albert, AB, CAN
+Alec;Martinez;Golden Knights;https://www.nhl.com/player/alec-martinez-8474166;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474166.jpg;23;D;L;"6'1""";209;07/26/87;Rochester Hills, MI, USA
+Brayden;McNabb;Golden Knights;https://www.nhl.com/player/brayden-mcnabb-8475188;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475188.jpg;3;D;L;"6'4""";213;01/21/91;Davidson, SK, CAN
+Jon;Merrill;Golden Knights;https://www.nhl.com/player/jon-merrill-8475750;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475750.jpg;15;D;L;"6'3""";195;02/03/92;Oklahoma City, OK, USA
+Nate;Schmidt;Golden Knights;https://www.nhl.com/player/nate-schmidt-8477220;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477220.jpg;88;D;L;"6'0""";194;07/16/91;St. Cloud, MN, USA
+Shea;Theodore;Golden Knights;https://www.nhl.com/player/shea-theodore-8477447;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477447.jpg;27;D;L;"6'2""";195;08/03/95;Langley, BC, CAN
+Zach;Whitecloud;Golden Knights;https://www.nhl.com/player/zach-whitecloud-8480727;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480727.jpg;2;D;R;"6'2""";209;11/28/96;Brandon, MB, CAN
+Oscar;Dansk;Golden Knights;https://www.nhl.com/player/oscar-dansk-8476861;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476861.jpg;35;G;--;"6'3""";195;02/28/94;Stockholm, SWE
+Marc-Andre;Fleury;Golden Knights;https://www.nhl.com/player/marc-andre-fleury-8470594;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470594.jpg;29;G;--;"6'2""";185;11/28/84;Sorel, QC, CAN
+Robin;Lehner;Golden Knights;https://www.nhl.com/player/robin-lehner-8475215;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475215.jpg;90;G;--;"6'4""";240;07/24/91;Gothenburg, SWE
+Sebastian;Aho;Hurricanes;https://www.nhl.com/player/sebastian-aho-8478427;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478427.jpg;20;C;L;"6'0""";176;07/26/97;Rauma, FIN
+Clark;Bishop;Hurricanes;https://www.nhl.com/player/clark-bishop-8478056;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478056.jpg;64;C;L;"6'1""";199;03/29/96;St. John's, NL, CAN
+Ryan;Dzingel;Hurricanes;https://www.nhl.com/player/ryan-dzingel-8476288;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476288.jpg;18;C;L;"6'0""";190;03/09/92;Wheaton, IL, USA
+Warren;Foegele;Hurricanes;https://www.nhl.com/player/warren-foegele-8477998;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477998.jpg;13;LW;L;"6'2""";198;04/01/96;Markham, ON, CAN
+Morgan;Geekie;Hurricanes;https://www.nhl.com/player/morgan-geekie-8479987;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479987.jpg;43;C;R;"6'3""";192;07/20/98;Strathclair, MB, CAN
+Steven;Lorentz;Hurricanes;https://www.nhl.com/player/steven-lorentz-8478904;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478904.jpg;78;C;L;"6'4""";206;04/13/96;Kitchener, ON, CAN
+Jordan;Martinook;Hurricanes;https://www.nhl.com/player/jordan-martinook-8476921;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476921.jpg;48;LW;L;"6'0""";196;07/25/92;Brandon, MB, CAN
+Max;McCormick;Hurricanes;https://www.nhl.com/player/max-mccormick-8476323;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476323.jpg;28;LW;L;"5'11""";188;05/01/92;De Pere, WI, USA
+Brock;McGinn;Hurricanes;https://www.nhl.com/player/brock-mcginn-8476934;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476934.jpg;23;LW;L;"6'0""";187;02/02/94;Fergus, ON, CAN
+Martin;Necas;Hurricanes;https://www.nhl.com/player/martin-necas-8480039;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480039.jpg;88;C;R;"6'2""";189;01/15/99;Nove Mesto na Morave, CZE
+Nino;Niederreiter;Hurricanes;https://www.nhl.com/player/nino-niederreiter-8475799;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475799.jpg;21;RW;L;"6'2""";218;09/08/92;Chur, CHE
+Jordan;Staal;Hurricanes;https://www.nhl.com/player/jordan-staal-8473533;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473533.jpg;11;C;L;"6'4""";220;09/10/88;Thunder Bay, ON, CAN
+Andrei;Svechnikov;Hurricanes;https://www.nhl.com/player/andrei-svechnikov-8480830;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480830.jpg;37;RW;L;"6'2""";195;03/26/00;Barnaul, RUS
+Teuvo;Teravainen;Hurricanes;https://www.nhl.com/player/teuvo-teravainen-8476882;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476882.jpg;86;LW;L;"5'11""";191;09/11/94;Helsinki, FIN
+Vincent;Trocheck;Hurricanes;https://www.nhl.com/player/vincent-trocheck-8476389;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476389.jpg;16;C;R;"5'10""";183;07/11/93;Pittsburgh, PA, USA
+Justin;Williams;Hurricanes;https://www.nhl.com/player/justin-williams-8468508;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8468508.jpg;14;RW;R;"6'1""";184;10/04/81;Cobourg, ON, CAN
+Jake;Bean;Hurricanes;https://www.nhl.com/player/jake-bean-8479402;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479402.jpg;24;D;L;"6'1""";186;06/09/98;Calgary, AB, CAN
+Haydn;Fleury;Hurricanes;https://www.nhl.com/player/haydn-fleury-8477938;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477938.jpg;4;D;L;"6'3""";208;07/08/96;Carlyle, SK, CAN
+Jake;Gardiner;Hurricanes;https://www.nhl.com/player/jake-gardiner-8474581;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474581.jpg;51;D;L;"6'2""";203;07/04/90;Minnetonka, MN, USA
+Dougie;Hamilton;Hurricanes;https://www.nhl.com/player/dougie-hamilton-8476462;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476462.jpg;19;D;R;"6'6""";229;06/17/93;Toronto, ON, CAN
+Roland;McKeown;Hurricanes;https://www.nhl.com/player/roland-mckeown-8477981;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477981.jpg;55;D;R;"6'1""";195;01/20/96;Listowel, ON, CAN
+Brett;Pesce;Hurricanes;https://www.nhl.com/player/brett-pesce-8477488;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477488.jpg;22;D;R;"6'3""";206;11/15/94;Tarrytown, NY, USA
+Brady;Skjei;Hurricanes;https://www.nhl.com/player/brady-skjei-8476869;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476869.jpg;76;D;L;"6'3""";210;03/26/94;Lakeville, MN, USA
+Jaccob;Slavin;Hurricanes;https://www.nhl.com/player/jaccob-slavin-8476958;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476958.jpg;74;D;L;"6'3""";207;05/01/94;Denver, CO, USA
+Trevor;van Riemsdyk;Hurricanes;https://www.nhl.com/player/trevor-van-riemsdyk-8477845;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477845.jpg;57;D;R;"6'2""";192;07/24/91;Middletown, NJ, USA
+Sami;Vatanen;Hurricanes;https://www.nhl.com/player/sami-vatanen-8475222;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475222.jpg;45;D;R;"5'10""";185;06/03/91;Jyväskylä, FIN
+Anton;Forsberg;Hurricanes;https://www.nhl.com/player/anton-forsberg-8476341;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476341.jpg;31;G;--;"6'3""";192;11/27/92;Härnösand, SWE
+Petr;Mrazek;Hurricanes;https://www.nhl.com/player/petr-mrazek-8475852;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475852.jpg;34;G;--;"6'1""";190;02/14/92;Ostrava, CZE
+Alex;Nedeljkovic;Hurricanes;https://www.nhl.com/player/alex-nedeljkovic-8477968;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477968.jpg;39;G;--;"6'0""";189;01/07/96;Parma, OH, USA
+James;Reimer;Hurricanes;https://www.nhl.com/player/james-reimer-8473503;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473503.jpg;47;G;--;"6'2""";220;03/15/88;Morweena, MB, CAN
+Josh;Bailey;Islanders;https://www.nhl.com/player/josh-bailey-8474573;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474573.jpg;12;RW;L;"6'1""";200;10/02/89;Bowmanville, ON, CAN
+Mathew;Barzal;Islanders;https://www.nhl.com/player/mathew-barzal-8478445;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478445.jpg;13;C;R;"6'0""";187;05/26/97;Coquitlam, BC, CAN
+Anthony;Beauvillier;Islanders;https://www.nhl.com/player/anthony-beauvillier-8478463;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478463.jpg;18;LW;L;"5'11""";182;06/08/97;Sorel-Tracy, QC, CAN
+Derick;Brassard;Islanders;https://www.nhl.com/player/derick-brassard-8473544;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473544.jpg;10;C;L;"6'1""";202;09/22/87;Hull, QC, CAN
+Casey;Cizikas;Islanders;https://www.nhl.com/player/casey-cizikas-8475231;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475231.jpg;53;C;L;"5'11""";195;02/27/91;Toronto, ON, CAN
+Cal;Clutterbuck;Islanders;https://www.nhl.com/player/cal-clutterbuck-8473504;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473504.jpg;15;RW;R;"5'11""";216;11/18/87;Welland, ON, CAN
+Michael;Dal Colle;Islanders;https://www.nhl.com/player/michael-dal-colle-8477936;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477936.jpg;28;LW;L;"6'3""";204;06/20/96;Woodbridge, ON, CAN
+Jordan;Eberle;Islanders;https://www.nhl.com/player/jordan-eberle-8474586;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474586.jpg;7;RW;R;"5'11""";187;05/15/90;Regina, SK, CAN
+Ross;Johnston;Islanders;https://www.nhl.com/player/ross-johnston-8477527;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477527.jpg;32;LW;L;"6'5""";235;02/18/94;Charlottetown, PE, CAN
+Otto;Koivula;Islanders;https://www.nhl.com/player/otto-koivula-8479526;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479526.jpg;21;LW;L;"6'4""";219;09/01/98;Nokia, FIN
+Leo;Komarov;Islanders;https://www.nhl.com/player/leo-komarov-8473463;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473463.jpg;47;RW;L;"5'11""";209;01/23/87;Narva, EST
+Tom;Kuhnhackl;Islanders;https://www.nhl.com/player/tom-kuhnhackl-8475832;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475832.jpg;14;RW;L;"6'2""";196;01/21/92;Landshut, DEU
+Andrew;Ladd;Islanders;https://www.nhl.com/player/andrew-ladd-8471217;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471217.jpg;16;LW;L;"6'3""";192;12/12/85;Maple Ridge, BC, CAN
+Anders;Lee;Islanders;https://www.nhl.com/player/anders-lee-8475314;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475314.jpg;27;LW;L;"6'3""";231;07/03/90;Edina, MN, USA
+Matt;Martin;Islanders;https://www.nhl.com/player/matt-martin-8474709;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474709.jpg;17;LW;L;"6'3""";220;05/08/89;Windsor, ON, CAN
+Brock;Nelson;Islanders;https://www.nhl.com/player/brock-nelson-8475754;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475754.jpg;29;C;L;"6'3""";212;10/15/91;Warroad, MN, USA
+Jean-Gabriel;Pageau;Islanders;https://www.nhl.com/player/jean-gabriel-pageau-8476419;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476419.jpg;44;C;R;"5'10""";180;11/11/92;Ottawa, ON, CAN
+Sebastian;Aho;Islanders;https://www.nhl.com/player/sebastian-aho-8480222;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480222.jpg;38;D;L;"5'11""";177;02/17/96;Umea, SWE
+Johnny;Boychuk;Islanders;https://www.nhl.com/player/johnny-boychuk-8470187;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470187.jpg;55;D;R;"6'2""";227;01/19/84;Edmonton, AB, CAN
+Noah;Dobson;Islanders;https://www.nhl.com/player/noah-dobson-8480865;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480865.jpg;8;D;R;"6'4""";184;01/07/00;Summerside, PE, CAN
+Andy;Greene;Islanders;https://www.nhl.com/player/andy-greene-8472382;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8472382.jpg;4;D;L;"5'11""";190;10/30/82;Trenton, MI, USA
+Thomas;Hickey;Islanders;https://www.nhl.com/player/thomas-hickey-8474066;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474066.jpg;34;D;L;"6'0""";183;02/08/89;Calgary, AB, CAN
+Nick;Leddy;Islanders;https://www.nhl.com/player/nick-leddy-8475181;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475181.jpg;2;D;L;"6'0""";207;03/20/91;Eden Prairie, MN, USA
+Scott;Mayfield;Islanders;https://www.nhl.com/player/scott-mayfield-8476429;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476429.jpg;24;D;R;"6'5""";223;10/14/92;St. Louis, MO, USA
+Adam;Pelech;Islanders;https://www.nhl.com/player/adam-pelech-8476917;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476917.jpg;3;D;L;"6'3""";218;08/16/94;Toronto, ON, CAN
+Ryan;Pulock;Islanders;https://www.nhl.com/player/ryan-pulock-8477506;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477506.jpg;6;D;R;"6'2""";217;10/06/94;Dauphin, MB, CAN
+Devon;Toews;Islanders;https://www.nhl.com/player/devon-toews-8478038;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478038.jpg;25;D;L;"6'1""";191;02/21/94;Abbotsford, BC, CAN
+Christopher;Gibson;Islanders;https://www.nhl.com/player/christopher-gibson-8476444;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476444.jpg;33;G;--;"6'2""";207;12/27/92;Karkkila, FIN
+Thomas;Greiss;Islanders;https://www.nhl.com/player/thomas-greiss-8471306;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471306.jpg;1;G;--;"6'2""";232;01/29/86;Fussen, DEU
+Semyon;Varlamov;Islanders;https://www.nhl.com/player/semyon-varlamov-8473575;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473575.jpg;40;G;--;"6'2""";205;04/27/88;Samara, RUS
+Mason;Appleton;Jets;https://www.nhl.com/player/mason-appleton-8478891;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478891.jpg;82;C;R;"6'2""";193;01/15/96;Green Bay, WI, USA
+Gabriel;Bourque;Jets;https://www.nhl.com/player/gabriel-bourque-8475268;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475268.jpg;57;LW;L;"5'10""";206;09/23/90;Rimouski, QC, CAN
+Kyle;Connor;Jets;https://www.nhl.com/player/kyle-connor-8478398;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478398.jpg;81;LW;L;"6'1""";182;12/09/96;Shelby Township, MI, USA
+Andrew;Copp;Jets;https://www.nhl.com/player/andrew-copp-8477429;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477429.jpg;9;C;L;"6'1""";206;07/08/94;Ann Arbor, MI, USA
+Cody;Eakin;Jets;https://www.nhl.com/player/cody-eakin-8475236;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475236.jpg;20;C;L;"6'0""";183;05/24/91;Winnipeg, MB, CAN
+Nikolaj;Ehlers;Jets;https://www.nhl.com/player/nikolaj-ehlers-8477940;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477940.jpg;27;LW;L;"6'0""";172;02/14/96;Aalborg, DNK
+Jansen;Harkins;Jets;https://www.nhl.com/player/jansen-harkins-8478424;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478424.jpg;58;C;L;"6'1""";182;05/23/97;Cleveland, OH, USA
+Patrik;Laine;Jets;https://www.nhl.com/player/patrik-laine-8479339;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479339.jpg;29;RW;R;"6'5""";206;04/19/98;Tampere, FIN
+Mark;Letestu;Jets;https://www.nhl.com/player/mark-letestu-8473914;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473914.jpg;22;C;R;"5'10""";195;02/04/85;Elk Point, AB, CAN
+Bryan;Little;Jets;https://www.nhl.com/player/bryan-little-8473412;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473412.jpg;18;C;R;"6'0""";191;11/12/87;Edmonton, AB, CAN
+Adam;Lowry;Jets;https://www.nhl.com/player/adam-lowry-8476392;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476392.jpg;17;C;L;"6'5""";210;03/29/93;St. Louis, MO, USA
+Mathieu;Perreault;Jets;https://www.nhl.com/player/mathieu-perreault-8473618;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473618.jpg;85;LW;L;"5'10""";188;01/05/88;Drummondville, QC, CAN
+Jack;Roslovic;Jets;https://www.nhl.com/player/jack-roslovic-8478458;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478458.jpg;28;C;R;"6'1""";187;01/29/97;Columbus, OH, USA
+Mark;Scheifele;Jets;https://www.nhl.com/player/mark-scheifele-8476460;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476460.jpg;55;C;R;"6'3""";207;03/15/93;Kitchener, ON, CAN
+Logan;Shaw;Jets;https://www.nhl.com/player/logan-shaw-8476400;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476400.jpg;38;RW;R;"6'3""";208;10/05/92;Glace Bay, NS, CAN
+Nicholas;Shore;Jets;https://www.nhl.com/player/nicholas-shore-8476406;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476406.jpg;21;C;R;"6'1""";198;09/26/92;Denver, CO, USA
+Blake;Wheeler;Jets;https://www.nhl.com/player/blake-wheeler-8471218;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471218.jpg;26;RW;R;"6'5""";225;08/31/86;Plymouth, MN, USA
+Nathan;Beaulieu;Jets;https://www.nhl.com/player/nathan-beaulieu-8476470;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476470.jpg;88;D;L;"6'2""";200;12/05/92;Strathroy, ON, CAN
+Anthony;Bitetto;Jets;https://www.nhl.com/player/anthony-bitetto-8475868;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475868.jpg;2;D;L;"6'1""";210;07/15/90;Island Park, NY, USA
+Carl;Dahlstrom;Jets;https://www.nhl.com/player/carl-dahlstrom-8477472;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477472.jpg;23;D;L;"6'4""";231;01/28/95;Stockholm, SWE
+Dylan;DeMelo;Jets;https://www.nhl.com/player/dylan-demelo-8476331;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476331.jpg;12;D;R;"6'0""";191;05/01/93;London, ON, CAN
+Dmitry;Kulikov;Jets;https://www.nhl.com/player/dmitry-kulikov-8475179;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475179.jpg;7;D;L;"6'1""";204;10/29/90;Lipetsk, RUS
+Josh;Morrissey;Jets;https://www.nhl.com/player/josh-morrissey-8477504;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477504.jpg;44;D;L;"6'0""";195;03/28/95;Calgary, AB, CAN
+Sami;Niku;Jets;https://www.nhl.com/player/sami-niku-8478915;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478915.jpg;8;D;L;"6'1""";176;10/10/96;Haapavesi, FIN
+Neal;Pionk;Jets;https://www.nhl.com/player/neal-pionk-8480145;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480145.jpg;4;D;R;"6'0""";186;07/29/95;Omaha, NE, USA
+Tucker;Poolman;Jets;https://www.nhl.com/player/tucker-poolman-8477359;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477359.jpg;3;D;R;"6'2""";199;06/08/93;Dubuque, IA, USA
+Luca;Sbisa;Jets;https://www.nhl.com/player/luca-sbisa-8474579;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474579.jpg;5;D;L;"6'3""";206;01/30/90;Ozieri, ITA
+Laurent;Brossoit;Jets;https://www.nhl.com/player/laurent-brossoit-8476316;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476316.jpg;30;G;--;"6'3""";204;03/23/93;Port Alberni, BC, CAN
+Eric;Comrie;Jets;https://www.nhl.com/player/eric-comrie-8477480;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477480.jpg;1;G;--;"6'1""";175;07/06/95;Edmonton, AB, CAN
+Connor;Hellebuyck;Jets;https://www.nhl.com/player/connor-hellebuyck-8476945;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476945.jpg;37;G;--;"6'4""";207;05/19/93;Commerce, MI, USA
+Michael;Amadio;Kings;https://www.nhl.com/player/michael-amadio-8478020;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478020.jpg;10;C;R;"6'1""";204;05/13/96;Sault Ste. Marie, ON, CAN
+Dustin;Brown;Kings;https://www.nhl.com/player/dustin-brown-8470606;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470606.jpg;23;RW;R;"6'0""";210;11/04/84;Ithaca, NY, USA
+Jeff;Carter;Kings;https://www.nhl.com/player/jeff-carter-8470604;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470604.jpg;77;C;R;"6'3""";219;01/01/85;London, ON, CAN
+Martin;Frk;Kings;https://www.nhl.com/player/martin-frk-8476924;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476924.jpg;29;RW;R;"6'1""";205;10/05/93;Pelhrimov, CZE
+Alex;Iafallo;Kings;https://www.nhl.com/player/alex-iafallo-8480113;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480113.jpg;19;LW;L;"6'0""";188;12/21/93;Eden, NY, USA
+Adrian;Kempe;Kings;https://www.nhl.com/player/adrian-kempe-8477960;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477960.jpg;9;C;L;"6'2""";201;09/13/96;Kramfors, SWE
+Anze;Kopitar;Kings;https://www.nhl.com/player/anze-kopitar-8471685;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471685.jpg;11;C;L;"6'3""";225;08/24/87;Jesenice, SVN
+Trevor;Lewis;Kings;https://www.nhl.com/player/trevor-lewis-8473453;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473453.jpg;22;C;R;"6'1""";202;01/08/87;Salt Lake City, UT, USA
+Blake;Lizotte;Kings;https://www.nhl.com/player/blake-lizotte-8481481;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481481.jpg;46;C;L;"5'7""";172;12/13/97;Lindstrom, MN, USA
+Trevor;Moore;Kings;https://www.nhl.com/player/trevor-moore-8479675;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479675.jpg;12;C;L;"5'10""";185;03/31/95;Thousand Oaks, CA, USA
+Nikolai;Prokhorkin;Kings;https://www.nhl.com/player/nikolai-prokhorkin-8476947;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476947.jpg;74;LW;L;"6'3""";190;09/17/93;Chelyabinsk, RUS
+Gabriel;Vilardi;Kings;https://www.nhl.com/player/gabriel-vilardi-8480014;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480014.jpg;42;C;R;"6'3""";201;08/16/99;Kingston, ON, CAN
+Austin;Wagner;Kings;https://www.nhl.com/player/austin-wagner-8478455;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478455.jpg;51;LW;L;"6'1""";185;06/23/97;Calgary, AB, CAN
+Mikey;Anderson;Kings;https://www.nhl.com/player/mikey-anderson-8479998;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479998.jpg;44;D;L;"6'0""";197;05/25/99;Fridley, MN, USA
+Drew;Doughty;Kings;https://www.nhl.com/player/drew-doughty-8474563;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474563.jpg;8;D;R;"6'1""";202;12/08/89;London, ON, CAN
+Ben;Hutton;Kings;https://www.nhl.com/player/ben-hutton-8477018;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477018.jpg;15;D;L;"6'2""";206;04/20/93;Brockville, ON, CAN
+Olli;Maatta;Kings;https://www.nhl.com/player/olli-maatta-8476874;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476874.jpg;6;D;L;"6'2""";206;08/22/94;Jyväskylä, FIN
+Kurtis;MacDermid;Kings;https://www.nhl.com/player/kurtis-macdermid-8477073;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477073.jpg;56;D;L;"6'5""";233;03/25/94;Sauble Beach, ON, CAN
+Matt;Roy;Kings;https://www.nhl.com/player/matt-roy-8478911;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478911.jpg;3;D;R;"6'1""";200;03/01/95;Detroit, MI, USA
+Joakim;Ryan;Kings;https://www.nhl.com/player/joakim-ryan-8477046;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477046.jpg;6;D;L;"5'11""";185;06/17/93;Rumson, NJ, USA
+Sean;Walker;Kings;https://www.nhl.com/player/sean-walker-8480336;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480336.jpg;26;D;R;"5'11""";196;11/13/94;Keswick, ON, CAN
+Calvin;Petersen;Kings;https://www.nhl.com/player/calvin-petersen-8477361;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477361.jpg;40;G;--;"6'1""";185;10/19/94;Waterloo, IA, USA
+Jonathan;Quick;Kings;https://www.nhl.com/player/jonathan-quick-8471734;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471734.jpg;32;G;--;"6'1""";216;01/21/86;Milford, CT, USA
+Anthony;Cirelli;Lightning;https://www.nhl.com/player/anthony-cirelli-8478519;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478519.jpg;71;C;L;"6'0""";193;07/15/97;Etobicoke, ON, CAN
+Blake;Coleman;Lightning;https://www.nhl.com/player/blake-coleman-8476399;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476399.jpg;20;C;L;"5'11""";200;11/28/91;Plano, TX, USA
+Barclay;Goodrow;Lightning;https://www.nhl.com/player/barclay-goodrow-8476624;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476624.jpg;19;C;L;"6'2""";215;02/26/93;Toronto, ON, CAN
+Yanni;Gourde;Lightning;https://www.nhl.com/player/yanni-gourde-8476826;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476826.jpg;37;C;L;"5'9""";175;12/15/91;Saint-Narcisse, QC, CAN
+Tyler;Johnson;Lightning;https://www.nhl.com/player/tyler-johnson-8474870;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474870.jpg;9;C;R;"5'8""";180;07/29/90;Spokane, WA, USA
+Mathieu;Joseph;Lightning;https://www.nhl.com/player/mathieu-joseph-8478472;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478472.jpg;7;RW;L;"6'1""";190;02/09/97;Laval, QC, CAN
+Alex;Killorn;Lightning;https://www.nhl.com/player/alex-killorn-8473986;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473986.jpg;17;LW;L;"6'1""";198;09/14/89;Halifax, NS, CAN
+Nikita;Kucherov;Lightning;https://www.nhl.com/player/nikita-kucherov-8476453;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476453.jpg;86;RW;L;"5'11""";183;06/17/93;Maykop, RUS
+Pat;Maroon;Lightning;https://www.nhl.com/player/pat-maroon-8474034;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474034.jpg;14;LW;L;"6'3""";236;04/23/88;St. Louis, MO, USA
+Ondrej;Palat;Lightning;https://www.nhl.com/player/ondrej-palat-8476292;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476292.jpg;18;LW;L;"6'0""";194;03/28/91;Frydek-Mistek, CZE
+Cedric;Paquette;Lightning;https://www.nhl.com/player/cedric-paquette-8476975;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476975.jpg;13;C;L;"6'0""";204;08/13/93;Gaspe, QC, CAN
+Brayden;Point;Lightning;https://www.nhl.com/player/brayden-point-8478010;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478010.jpg;21;C;R;"5'10""";166;03/13/96;Calgary, AB, CAN
+Steven;Stamkos;Lightning;https://www.nhl.com/player/steven-stamkos-8474564;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474564.jpg;91;C;R;"6'1""";194;02/07/90;Markham, ON, CAN
+Mitchell;Stephens;Lightning;https://www.nhl.com/player/mitchell-stephens-8478477;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478477.jpg;67;C;R;"5'11""";193;02/05/97;Peterborough, ON, CAN
+Carter;Verhaeghe;Lightning;https://www.nhl.com/player/carter-verhaeghe-8477409;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477409.jpg;23;C;L;"6'2""";180;08/14/95;Toronto, ON, CAN
+Zach;Bogosian;Lightning;https://www.nhl.com/player/zach-bogosian-8474567;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474567.jpg;24;D;R;"6'2""";200;07/15/90;MASSENA, NY, USA
+Erik;Cernak;Lightning;https://www.nhl.com/player/erik-cernak-8478416;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478416.jpg;81;D;R;"6'3""";230;05/28/97;Kosice, SVK
+Braydon;Coburn;Lightning;https://www.nhl.com/player/braydon-coburn-8470601;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470601.jpg;55;D;L;"6'5""";224;02/27/85;Shaunavon, SK, CAN
+Victor;Hedman;Lightning;https://www.nhl.com/player/victor-hedman-8475167;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475167.jpg;77;D;L;"6'6""";229;12/18/90;Ornskoldsvik, SWE
+Ryan;McDonagh;Lightning;https://www.nhl.com/player/ryan-mcdonagh-8474151;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474151.jpg;27;D;L;"6'1""";214;06/13/89;St. Paul, MN, USA
+Jan;Rutta;Lightning;https://www.nhl.com/player/jan-rutta-8480172;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480172.jpg;44;D;R;"6'3""";204;07/29/90;Pisek, CZE
+Luke;Schenn;Lightning;https://www.nhl.com/player/luke-schenn-8474568;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474568.jpg;2;D;R;"6'2""";224;11/02/89;Saskatoon, SK, CAN
+Mikhail;Sergachev;Lightning;https://www.nhl.com/player/mikhail-sergachev-8479410;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479410.jpg;98;D;L;"6'3""";216;06/25/98;Nizhnekamsk, RUS
+Kevin;Shattenkirk;Lightning;https://www.nhl.com/player/kevin-shattenkirk-8474031;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474031.jpg;22;D;R;"6'0""";203;01/29/89;New Rochelle, NY, USA
+Curtis;McElhinney;Lightning;https://www.nhl.com/player/curtis-mcelhinney-8470147;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470147.jpg;35;G;--;"6'1""";204;05/23/83;London, ON, CAN
+Andrei;Vasilevskiy;Lightning;https://www.nhl.com/player/andrei-vasilevskiy-8476883;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476883.jpg;88;G;--;"6'3""";216;07/25/94;Tyumen, RUS
+Scott;Wedgewood;Lightning;https://www.nhl.com/player/scott-wedgewood-8475809;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475809.jpg;29;G;--;"6'2""";207;08/14/92;Brampton, ON, CAN
+Kyle;Clifford;Maple Leafs;https://www.nhl.com/player/kyle-clifford-8475160;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475160.jpg;73;LW;L;"6'2""";211;01/13/91;Ayr, ON, CAN
+Pierre;Engvall;Maple Leafs;https://www.nhl.com/player/pierre-engvall-8478115;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478115.jpg;47;LW;L;"6'5""";214;05/31/96;Ljungby, SWE
+Frederik;Gauthier;Maple Leafs;https://www.nhl.com/player/frederik-gauthier-8477512;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477512.jpg;33;C;L;"6'5""";239;04/26/95;Laval, QC, CAN
+Zach;Hyman;Maple Leafs;https://www.nhl.com/player/zach-hyman-8475786;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475786.jpg;11;LW;R;"6'1""";211;06/09/92;Toronto, ON, CAN
+Andreas;Johnsson;Maple Leafs;https://www.nhl.com/player/andreas-johnsson-8477341;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477341.jpg;18;LW;L;"5'10""";194;11/21/94;Gävle, SWE
+Alexander;Kerfoot;Maple Leafs;https://www.nhl.com/player/alexander-kerfoot-8477021;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477021.jpg;15;C;L;"5'10""";185;08/11/94;Vancouver, BC, CAN
+Denis;Malgin;Maple Leafs;https://www.nhl.com/player/denis-malgin-8478843;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478843.jpg;62;C;R;"5'9""";177;01/18/97;Olten, CHE
+Mitchell;Marner;Maple Leafs;https://www.nhl.com/player/mitchell-marner-8478483;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478483.jpg;16;RW;R;"6'0""";175;05/05/97;Markham, ON, CAN
+Auston;Matthews;Maple Leafs;https://www.nhl.com/player/auston-matthews-8479318;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479318.jpg;34;C;L;"6'3""";220;09/17/97;San Ramon, CA, USA
+Ilya;Mikheyev;Maple Leafs;https://www.nhl.com/player/ilya-mikheyev-8481624;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481624.jpg;65;RW;L;"6'3""";195;10/10/94;Omsk, RUS
+William;Nylander;Maple Leafs;https://www.nhl.com/player/william-nylander-8477939;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477939.jpg;88;RW;R;"6'0""";196;05/01/96;Calgary, AB, CAN
+Nic;Petan;Maple Leafs;https://www.nhl.com/player/nic-petan-8477464;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477464.jpg;61;C;L;"5'9""";175;03/22/95;Delta, BC, CAN
+Nicholas;Robertson;Maple Leafs;https://www.nhl.com/player/nicholas-robertson-8481582;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481582.jpg;89;LW;L;"5'9""";164;09/11/01;Pasadena, CA, USA
+Evan;Rodrigues;Maple Leafs;https://www.nhl.com/player/evan-rodrigues-8478542;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478542.jpg;9;C;R;"5'11""";184;07/28/93;Toronto, ON, CAN
+Jason;Spezza;Maple Leafs;https://www.nhl.com/player/jason-spezza-8469455;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8469455.jpg;19;C;R;"6'3""";216;06/13/83;Toronto, ON, CAN
+John;Tavares;Maple Leafs;https://www.nhl.com/player/john-tavares-8475166;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475166.jpg;91;C;L;"6'1""";215;09/20/90;Mississauga, ON, CAN
+Tyson;Barrie;Maple Leafs;https://www.nhl.com/player/tyson-barrie-8475197;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475197.jpg;94;D;R;"5'11""";197;07/26/91;Victoria, BC, CAN
+Cody;Ceci;Maple Leafs;https://www.nhl.com/player/cody-ceci-8476879;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476879.jpg;83;D;R;"6'2""";210;12/21/93;Ottawa, ON, CAN
+Travis;Dermott;Maple Leafs;https://www.nhl.com/player/travis-dermott-8478408;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478408.jpg;23;D;L;"6'0""";205;12/22/96;Newmarket, ON, CAN
+Justin;Holl;Maple Leafs;https://www.nhl.com/player/justin-holl-8475718;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475718.jpg;3;D;R;"6'4""";210;01/30/92;Tonka Bay, MN, USA
+Martin;Marincin;Maple Leafs;https://www.nhl.com/player/martin-marincin-8475716;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475716.jpg;52;D;L;"6'5""";217;02/18/92;Kosice, SVK
+Jake;Muzzin;Maple Leafs;https://www.nhl.com/player/jake-muzzin-8474162;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474162.jpg;8;D;L;"6'3""";217;02/21/89;Woodstock, ON, CAN
+Morgan;Rielly;Maple Leafs;https://www.nhl.com/player/morgan-rielly-8476853;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476853.jpg;44;D;L;"6'1""";219;03/09/94;Vancouver, BC, CAN
+Calle;Rosen;Maple Leafs;https://www.nhl.com/player/calle-rosen-8480157;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480157.jpg;48;D;L;"6'1""";186;02/02/94;Vaxjo, SWE
+Rasmus;Sandin;Maple Leafs;https://www.nhl.com/player/rasmus-sandin-8480873;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480873.jpg;38;D;L;"5'11""";183;03/07/00;Uppsala, SWE
+Frederik;Andersen;Maple Leafs;https://www.nhl.com/player/frederik-andersen-8475883;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475883.jpg;31;G;--;"6'4""";238;10/02/89;Herning, DNK
+Jack;Campbell;Maple Leafs;https://www.nhl.com/player/jack-campbell-8475789;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475789.jpg;36;G;--;"6'2""";197;01/09/92;Port Huron, MI, USA
+Kasimir;Kaskisuo;Maple Leafs;https://www.nhl.com/player/kasimir-kaskisuo-8479288;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479288.jpg;50;G;--;"6'3""";203;10/02/93;Vantaa, FIN
+Joseph;Woll;Maple Leafs;https://www.nhl.com/player/joseph-woll-8479361;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479361.jpg;60;G;--;"6'4""";203;07/12/98;Dardenne Prairie, MO, USA
+Josh;Archibald;Oilers;https://www.nhl.com/player/josh-archibald-8476326;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476326.jpg;15;RW;R;"5'10""";176;10/06/92;Regina, SK, CAN
+Andreas;Athanasiou;Oilers;https://www.nhl.com/player/andreas-athanasiou-8476960;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476960.jpg;28;LW;L;"6'2""";188;08/06/94;Woodbridge, ON, CAN
+Tyler;Benson;Oilers;https://www.nhl.com/player/tyler-benson-8479347;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479347.jpg;49;LW;L;"6'0""";190;03/15/98;Edmonton, AB, CAN
+Alex;Chiasson;Oilers;https://www.nhl.com/player/alex-chiasson-8475163;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475163.jpg;39;RW;R;"6'4""";208;10/01/90;Montreal, QC, CAN
+Leon;Draisaitl;Oilers;https://www.nhl.com/player/leon-draisaitl-8477934;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477934.jpg;29;C;L;"6'2""";208;10/27/95;Cologne, DEU
+Tyler;Ennis;Oilers;https://www.nhl.com/player/tyler-ennis-8474589;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474589.jpg;63;C;L;"5'9""";161;10/06/89;Edmonton, AB, CAN
+Gaetan;Haas;Oilers;https://www.nhl.com/player/gaetan-haas-8481813;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481813.jpg;91;C;R;"6'0""";181;01/31/92;Biel-Bienne, CHE
+Zack;Kassian;Oilers;https://www.nhl.com/player/zack-kassian-8475178;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475178.jpg;44;RW;R;"6'3""";211;01/24/91;Windsor, ON, CAN
+Jujhar;Khaira;Oilers;https://www.nhl.com/player/jujhar-khaira-8476915;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476915.jpg;16;LW;L;"6'4""";212;08/13/94;Surrey, BC, CAN
+Cooper;Marody;Oilers;https://www.nhl.com/player/cooper-marody-8478442;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478442.jpg;65;C;R;"6'0""";184;12/20/96;Brighton, MI, USA
+Connor;McDavid;Oilers;https://www.nhl.com/player/connor-mcdavid-8478402;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478402.jpg;97;C;L;"6'1""";193;01/13/97;Richmond Hill, ON, CAN
+Ryan;McLeod;Oilers;https://www.nhl.com/player/ryan-mcleod-8480802;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480802.jpg;70;C;L;"6'2""";207;09/21/99;Mississauga, ON, CAN
+James;Neal;Oilers;https://www.nhl.com/player/james-neal-8471707;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471707.jpg;18;LW;L;"6'3""";212;09/03/87;Whitby, ON, CAN
+Ryan;Nugent-Hopkins;Oilers;https://www.nhl.com/player/ryan-nugent-hopkins-8476454;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476454.jpg;93;C;L;"6'0""";184;04/12/93;Burnaby, BC, CAN
+Joakim;Nygard;Oilers;https://www.nhl.com/player/joakim-nygard-8481638;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481638.jpg;10;LW;L;"6'0""";179;01/08/93;Stockholm, SWE
+Patrick;Russell;Oilers;https://www.nhl.com/player/patrick-russell-8479466;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479466.jpg;52;RW;R;"6'1""";203;01/04/93;Holte, DNK
+Riley;Sheahan;Oilers;https://www.nhl.com/player/riley-sheahan-8475772;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475772.jpg;23;C;L;"6'3""";214;12/07/91;St. Catharines, ON, CAN
+Kailer;Yamamoto;Oilers;https://www.nhl.com/player/kailer-yamamoto-8479977;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479977.jpg;56;RW;R;"5'8""";153;09/29/98;Spokane, WA, USA
+Ethan;Bear;Oilers;https://www.nhl.com/player/ethan-bear-8478451;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478451.jpg;74;D;R;"5'11""";197;06/26/97;Regina, SK, CAN
+Matt;Benning;Oilers;https://www.nhl.com/player/matt-benning-8476988;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476988.jpg;83;D;R;"6'1""";203;05/25/94;Edmonton, AB, CAN
+Evan;Bouchard;Oilers;https://www.nhl.com/player/evan-bouchard-8480803;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480803.jpg;75;D;R;"6'3""";194;10/20/99;Oakville, ON, CAN
+Philip;Broberg;Oilers;https://www.nhl.com/player/philip-broberg-8481598;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481598.jpg;86;D;L;"6'3""";199;06/25/01;Orebro, SWE
+Caleb;Jones;Oilers;https://www.nhl.com/player/caleb-jones-8478452;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478452.jpg;82;D;L;"6'1""";194;06/06/97;Arlington, TX, USA
+Oscar;Klefbom;Oilers;https://www.nhl.com/player/oscar-klefbom-8476472;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476472.jpg;77;D;L;"6'3""";216;07/20/93;Karlstad, SWE
+William;Lagesson;Oilers;https://www.nhl.com/player/william-lagesson-8478021;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478021.jpg;84;D;L;"6'2""";207;02/22/96;Gothenburg, SWE
+Adam;Larsson;Oilers;https://www.nhl.com/player/adam-larsson-8476457;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476457.jpg;6;D;R;"6'3""";208;11/12/92;Skellefteå, SWE
+Darnell;Nurse;Oilers;https://www.nhl.com/player/darnell-nurse-8477498;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477498.jpg;25;D;L;"6'4""";221;02/04/95;Hamilton, ON, CAN
+Kris;Russell;Oilers;https://www.nhl.com/player/kris-russell-8471729;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471729.jpg;4;D;L;"5'10""";170;05/02/87;Caroline, AB, CAN
+Mikko;Koskinen;Oilers;https://www.nhl.com/player/mikko-koskinen-8475156;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475156.jpg;19;G;--;"6'7""";202;07/18/88;Vantaa, FIN
+Stuart;Skinner;Oilers;https://www.nhl.com/player/stuart-skinner-8479973;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479973.jpg;50;G;--;"6'4""";206;11/01/98;Edmonton, AB, CAN
+Mike;Smith;Oilers;https://www.nhl.com/player/mike-smith-8469608;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8469608.jpg;41;G;--;"6'5""";220;03/22/82;Kingston, ON, CAN
+Noel;Acciari;Panthers;https://www.nhl.com/player/noel-acciari-8478569;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478569.jpg;55;C;R;"5'10""";203;12/01/91;Johnston, RI, USA
+Aleksander;Barkov;Panthers;https://www.nhl.com/player/aleksander-barkov-8477493;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477493.jpg;16;C;L;"6'3""";210;09/02/95;Tampere, FIN
+Brian;Boyle;Panthers;https://www.nhl.com/player/brian-boyle-8470619;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470619.jpg;9;C;L;"6'6""";245;12/18/84;Hingham, MA, USA
+Brett;Connolly;Panthers;https://www.nhl.com/player/brett-connolly-8475792;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475792.jpg;10;RW;R;"6'3""";192;05/02/92;Campbell River, BC, CAN
+Evgenii;Dadonov;Panthers;https://www.nhl.com/player/evgenii-dadonov-8474149;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474149.jpg;63;RW;L;"5'11""";185;03/12/89;Chelyabinsk, RUS
+Erik;Haula;Panthers;https://www.nhl.com/player/erik-haula-8475287;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475287.jpg;56;LW;L;"6'0""";193;03/23/91;Pori, FIN
+Mike;Hoffman;Panthers;https://www.nhl.com/player/mike-hoffman-8474884;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474884.jpg;68;LW;L;"6'0""";182;11/24/89;Kitchener, ON, CAN
+Patric;Hornqvist;Panthers;https://www.nhl.com/player/patric-hornqvist-8471887;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471887.jpg;70;RW;R;"5'11""";189;01/01/87;Sollentuna, SWE
+Jonathan;Huberdeau;Panthers;https://www.nhl.com/player/jonathan-huberdeau-8476456;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476456.jpg;11;LW;L;"6'1""";202;06/04/93;Saint-Jerome, QC, CAN
+Dryden;Hunt;Panthers;https://www.nhl.com/player/dryden-hunt-8478211;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478211.jpg;73;LW;L;"6'0""";193;11/24/95;Cranbrook, BC, CAN
+Eetu;Luostarinen;Panthers;https://www.nhl.com/player/eetu-luostarinen-8480185;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480185.jpg;27;C;L;"6'3""";184;09/02/98;Siilinjarvi, FIN
+Aleksi;Saarela;Panthers;https://www.nhl.com/player/aleksi-saarela-8478839;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478839.jpg;28;C;L;"5'10""";200;01/07/97;Helsinki, FIN
+Owen;Tippett;Panthers;https://www.nhl.com/player/owen-tippett-8480015;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480015.jpg;74;RW;R;"6'1""";207;02/16/99;Peterborough, ON, CAN
+Dominic;Toninato;Panthers;https://www.nhl.com/player/dominic-toninato-8476952;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476952.jpg;14;C;L;"6'2""";191;03/09/94;Duluth, MN, USA
+Frank;Vatrano;Panthers;https://www.nhl.com/player/frank-vatrano-8478366;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478366.jpg;77;C;L;"5'11""";197;03/14/94;East Longmeadow, MA, USA
+Lucas;Wallmark;Panthers;https://www.nhl.com/player/lucas-wallmark-8478027;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478027.jpg;71;C;L;"6'0""";178;09/05/95;Umea, SWE
+Aaron;Ekblad;Panthers;https://www.nhl.com/player/aaron-ekblad-8477932;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477932.jpg;5;D;R;"6'4""";215;02/07/96;Windsor, ON, CAN
+Brady;Keeper;Panthers;https://www.nhl.com/player/brady-keeper-8481442;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481442.jpg;25;D;R;"6'2""";209;06/05/96;Cross Lake, MB, CAN
+Chase;Priskie;Panthers;https://www.nhl.com/player/chase-priskie-8479597;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479597.jpg;22;D;R;"6'0""";185;03/19/96;Pembroke Pines, FL, USA
+Mark;Pysyk;Panthers;https://www.nhl.com/player/mark-pysyk-8475796;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475796.jpg;13;D;R;"6'1""";196;01/11/92;Sherwood Park, AB, CAN
+Riley;Stillman;Panthers;https://www.nhl.com/player/riley-stillman-8479388;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479388.jpg;61;D;L;"6'1""";196;03/09/98;Peterborough, ON, CAN
+Anton;Stralman;Panthers;https://www.nhl.com/player/anton-stralman-8471873;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471873.jpg;6;D;R;"5'11""";186;08/01/86;Tibro, SWE
+MacKenzie;Weegar;Panthers;https://www.nhl.com/player/mackenzie-weegar-8477346;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477346.jpg;52;D;R;"6'0""";200;01/07/94;Ottawa, ON, CAN
+Keith;Yandle;Panthers;https://www.nhl.com/player/keith-yandle-8471735;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471735.jpg;3;D;L;"6'1""";192;09/09/86;Boston, MA, USA
+Sergei;Bobrovsky;Panthers;https://www.nhl.com/player/sergei-bobrovsky-8475683;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475683.jpg;72;G;--;"6'2""";187;09/20/88;Novokuznetsk, RUS
+Philippe;Desrosiers;Panthers;https://www.nhl.com/player/philippe-desrosiers-8477475;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477475.jpg;30;G;--;"6'1""";204;08/16/95;Saint-Hyacinthe, QC, CAN
+Chris;Driedger;Panthers;https://www.nhl.com/player/chris-driedger-8476904;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476904.jpg;60;G;--;"6'4""";205;05/18/94;Winnipeg, MB, CAN
+Sam;Montembeault;Panthers;https://www.nhl.com/player/sam-montembeault-8478470;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478470.jpg;33;G;--;"6'3""";199;10/30/96;Becancour, QC, CAN
+Anthony;Angello;Penguins;https://www.nhl.com/player/anthony-angello-8478074;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478074.jpg;57;C;R;"6'5""";210;03/06/96;Albany, NY, USA
+Zach;Aston-Reese;Penguins;https://www.nhl.com/player/zach-aston-reese-8479944;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479944.jpg;46;C;L;"6'0""";204;08/10/94;Staten Island, NY, USA
+Teddy;Blueger;Penguins;https://www.nhl.com/player/teddy-blueger-8476927;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476927.jpg;53;C;L;"6'0""";185;08/15/94;Riga, LVA
+Sidney;Crosby;Penguins;https://www.nhl.com/player/sidney-crosby-8471675;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471675.jpg;87;C;L;"5'11""";200;08/07/87;Cole Harbour, NS, CAN
+Jake;Guentzel;Penguins;https://www.nhl.com/player/jake-guentzel-8477404;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477404.jpg;59;LW;L;"5'11""";180;10/06/94;Omaha, NE, USA
+Kasperi;Kapanen;Penguins;https://www.nhl.com/player/kasperi-kapanen-8477953;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477953.jpg;42;RW;R;"6'1""";194;07/23/96;Kuopio, FIN
+Sam;Lafferty;Penguins;https://www.nhl.com/player/sam-lafferty-8478043;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478043.jpg;37;C;R;"6'1""";195;03/06/95;Hollidaysburg, PA, USA
+Evgeni;Malkin;Penguins;https://www.nhl.com/player/evgeni-malkin-8471215;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471215.jpg;71;C;L;"6'3""";195;07/31/86;Magnitogorsk, RUS
+Patrick;Marleau;Penguins;https://www.nhl.com/player/patrick-marleau-8466139;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8466139.jpg;12;C;L;"6'2""";215;09/15/79;Aneroid, SK, CAN
+Jared;McCann;Penguins;https://www.nhl.com/player/jared-mccann-8477955;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477955.jpg;19;C;L;"6'1""";185;05/31/96;Stratford, ON, CAN
+Bryan;Rust;Penguins;https://www.nhl.com/player/bryan-rust-8475810;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475810.jpg;17;RW;R;"5'11""";192;05/11/92;Pontiac, MI, USA
+Colton;Sceviour;Penguins;https://www.nhl.com/player/colton-sceviour-8474098;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474098.jpg;7;C;R;"6'0""";190;04/20/89;Red Deer, AB, CAN
+Conor;Sheary;Penguins;https://www.nhl.com/player/conor-sheary-8477839;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477839.jpg;43;LW;L;"5'8""";179;06/08/92;Winchester, MA, USA
+Dominik;Simon;Penguins;https://www.nhl.com/player/dominik-simon-8478866;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478866.jpg;18;C;L;"5'11""";190;08/08/94;Prague, CZE
+Brandon;Tanev;Penguins;https://www.nhl.com/player/brandon-tanev-8479293;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479293.jpg;13;LW;L;"6'0""";180;12/31/91;Toronto, ON, CAN
+Jason;Zucker;Penguins;https://www.nhl.com/player/jason-zucker-8475722;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475722.jpg;16;LW;L;"5'11""";192;01/16/92;Newport Beach, CA, USA
+Brian;Dumoulin;Penguins;https://www.nhl.com/player/brian-dumoulin-8475208;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475208.jpg;8;D;L;"6'4""";207;09/06/91;Biddeford, ME, USA
+Jack;Johnson;Penguins;https://www.nhl.com/player/jack-johnson-8471677;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471677.jpg;3;D;L;"6'1""";227;01/13/87;Indianapolis, IN, USA
+Kris;Letang;Penguins;https://www.nhl.com/player/kris-letang-8471724;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471724.jpg;58;D;R;"6'0""";201;04/24/87;Montreal, QC, CAN
+John;Marino;Penguins;https://www.nhl.com/player/john-marino-8478507;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478507.jpg;6;D;R;"6'1""";181;05/21/97;North Easton, MA, USA
+Mike;Matheson;Penguins;https://www.nhl.com/player/mike-matheson-8476875;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476875.jpg;5;D;L;"6'2""";188;02/27/94;Pointe-Claire, QC, CAN
+Marcus;Pettersson;Penguins;https://www.nhl.com/player/marcus-pettersson-8477969;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477969.jpg;28;D;L;"6'3""";177;05/08/96;Skellefteå, SWE
+Juuso;Riikola;Penguins;https://www.nhl.com/player/juuso-riikola-8480945;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480945.jpg;50;D;L;"6'0""";189;11/09/93;Joensuu, FIN
+Chad;Ruhwedel;Penguins;https://www.nhl.com/player/chad-ruhwedel-8477244;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477244.jpg;2;D;R;"5'11""";191;05/07/90;San Diego, CA, USA
+Justin;Schultz;Penguins;https://www.nhl.com/player/justin-schultz-8474602;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474602.jpg;4;D;R;"6'2""";193;07/06/90;Kelowna, BC, CAN
+Tristan;Jarry;Penguins;https://www.nhl.com/player/tristan-jarry-8477465;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477465.jpg;35;G;--;"6'2""";194;04/29/95;Surrey, BC, CAN
+Matt;Murray;Penguins;https://www.nhl.com/player/matt-murray-8476899;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476899.jpg;30;G;--;"6'4""";178;05/25/94;Thunder Bay, ON, CAN
+Viktor;Arvidsson;Predators;https://www.nhl.com/player/viktor-arvidsson-8478042;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478042.jpg;33;RW;R;"5'9""";180;04/08/93;Skellefteå, SWE
+Colin;Blackwell;Predators;https://www.nhl.com/player/colin-blackwell-8476278;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476278.jpg;42;C;R;"5'9""";190;03/28/93;Lawrence, MA, USA
+Nick;Bonino;Predators;https://www.nhl.com/player/nick-bonino-8474009;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474009.jpg;13;C;L;"6'1""";196;04/20/88;Hartford, CT, USA
+Daniel;Carr;Predators;https://www.nhl.com/player/daniel-carr-8477901;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477901.jpg;26;LW;L;"6'0""";193;11/01/91;Sherwood Park, AB, CAN
+Matt;Duchene;Predators;https://www.nhl.com/player/matt-duchene-8475168;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475168.jpg;95;C;L;"5'11""";195;01/16/91;Haliburton, ON, CAN
+Filip;Forsberg;Predators;https://www.nhl.com/player/filip-forsberg-8476887;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476887.jpg;9;LW;R;"6'1""";205;08/13/94;Ostervala, SWE
+Mikael;Granlund;Predators;https://www.nhl.com/player/mikael-granlund-8475798;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475798.jpg;64;C;L;"5'10""";185;02/26/92;Oulu, FIN
+Rocco;Grimaldi;Predators;https://www.nhl.com/player/rocco-grimaldi-8476428;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476428.jpg;23;RW;R;"5'6""";180;02/08/93;Anaheim, CA, USA
+Calle;Jarnkrok;Predators;https://www.nhl.com/player/calle-jarnkrok-8475714;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475714.jpg;19;C;R;"5'11""";186;09/25/91;Gävle, SWE
+Ryan;Johansen;Predators;https://www.nhl.com/player/ryan-johansen-8475793;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475793.jpg;92;C;R;"6'3""";218;07/31/92;Vancouver, BC, CAN
+Michael;McCarron;Predators;https://www.nhl.com/player/michael-mccarron-8477446;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477446.jpg;47;RW;R;"6'6""";232;03/07/95;Grosse Pointe, MI, USA
+Colton;Sissons;Predators;https://www.nhl.com/player/colton-sissons-8476925;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476925.jpg;10;C;R;"6'1""";200;11/05/93;North Vancouver, BC, CAN
+Craig;Smith;Predators;https://www.nhl.com/player/craig-smith-8475225;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475225.jpg;15;RW;R;"6'1""";208;09/05/89;Madison, WI, USA
+Eeli;Tolvanen;Predators;https://www.nhl.com/player/eeli-tolvanen-8480009;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480009.jpg;28;RW;L;"5'10""";191;04/22/99;Vihti, FIN
+Yakov;Trenin;Predators;https://www.nhl.com/player/yakov-trenin-8478508;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478508.jpg;32;C;L;"6'2""";201;01/13/97;Chelyabinsk, RUS
+Kyle;Turris;Predators;https://www.nhl.com/player/kyle-turris-8474068;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474068.jpg;8;C;R;"6'1""";190;08/14/89;New Westminster, BC, CAN
+Austin;Watson;Predators;https://www.nhl.com/player/austin-watson-8475766;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475766.jpg;51;LW;R;"6'4""";204;01/13/92;Ann Arbor, MI, USA
+Alexandre;Carrier;Predators;https://www.nhl.com/player/alexandre-carrier-8478851;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478851.jpg;45;D;R;"5'11""";174;10/08/96;Quebec City, QC, CAN
+Mattias;Ekholm;Predators;https://www.nhl.com/player/mattias-ekholm-8475218;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475218.jpg;14;D;L;"6'4""";215;05/24/90;Borlange, SWE
+Ryan;Ellis;Predators;https://www.nhl.com/player/ryan-ellis-8475176;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475176.jpg;4;D;R;"5'10""";180;01/03/91;Hamilton, ON, CAN
+Dante;Fabbro;Predators;https://www.nhl.com/player/dante-fabbro-8479371;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479371.jpg;57;D;R;"6'0""";189;06/20/98;Coquitlam, BC, CAN
+Dan;Hamhuis;Predators;https://www.nhl.com/player/dan-hamhuis-8469465;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8469465.jpg;5;D;L;"6'1""";204;12/13/82;Smithers, BC, CAN
+Korbinian;Holzer;Predators;https://www.nhl.com/player/korbinian-holzer-8473560;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473560.jpg;22;D;R;"6'3""";213;02/16/88;Munich, DEU
+Roman;Josi;Predators;https://www.nhl.com/player/roman-josi-8474600;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474600.jpg;59;D;L;"6'1""";201;06/01/90;Bern, CHE
+Jarred;Tinordi;Predators;https://www.nhl.com/player/jarred-tinordi-8475797;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475797.jpg;24;D;L;"6'6""";230;02/20/92;Burnsville, MN, USA
+Yannick;Weber;Predators;https://www.nhl.com/player/yannick-weber-8474134;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474134.jpg;7;D;R;"5'11""";200;09/23/88;Morges, CHE
+Troy;Grosenick;Predators;https://www.nhl.com/player/troy-grosenick-8477234;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477234.jpg;1;G;--;"6'1""";185;08/27/89;Brookfield, WI, USA
+Connor;Ingram;Predators;https://www.nhl.com/player/connor-ingram-8478971;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478971.jpg;39;G;--;"6'2""";196;03/31/97;Saskatoon, SK, CAN
+Pekka;Rinne;Predators;https://www.nhl.com/player/pekka-rinne-8471469;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471469.jpg;35;G;--;"6'5""";217;11/03/82;Kempele, FIN
+Juuse;Saros;Predators;https://www.nhl.com/player/juuse-saros-8477424;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477424.jpg;74;G;--;"5'11""";180;04/19/95;Forssa, FIN
+Pavel;Buchnevich;Rangers;https://www.nhl.com/player/pavel-buchnevich-8477402;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477402.jpg;89;RW;L;"6'3""";197;04/17/95;Cherepovets, RUS
+Filip;Chytil;Rangers;https://www.nhl.com/player/filip-chytil-8480078;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480078.jpg;72;C;L;"6'2""";206;09/05/99;Kromeriz, CZE
+Phillip;Di Giuseppe;Rangers;https://www.nhl.com/player/phillip-di-giuseppe-8476858;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476858.jpg;33;LW;L;"6'0""";193;10/09/93;Toronto, ON, CAN
+Jesper;Fast;Rangers;https://www.nhl.com/player/jesper-fast-8475855;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475855.jpg;17;RW;R;"6'1""";191;12/02/91;Nassjo, SWE
+Steven;Fogarty;Rangers;https://www.nhl.com/player/steven-fogarty-8476396;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476396.jpg;29;C;R;"6'3""";208;04/19/93;Chambersburg, PA, USA
+Julien;Gauthier;Rangers;https://www.nhl.com/player/julien-gauthier-8479328;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479328.jpg;12;RW;R;"6'4""";227;10/15/97;Pointe-aux-Trembles, QC, CAN
+Tim;Gettinger;Rangers;https://www.nhl.com/player/tim-gettinger-8479364;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479364.jpg;26;LW;L;"6'6""";218;04/14/98;Cleveland, OH, USA
+Micheal;Haley;Rangers;https://www.nhl.com/player/micheal-haley-8474230;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474230.jpg;38;C;L;"5'11""";202;03/30/86;Guelph, ON, CAN
+Brett;Howden;Rangers;https://www.nhl.com/player/brett-howden-8479353;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479353.jpg;21;C;L;"6'3""";197;03/29/98;Calgary, AB, CAN
+Kaapo;Kakko;Rangers;https://www.nhl.com/player/kaapo-kakko-8481554;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481554.jpg;24;RW;L;"6'3""";199;02/13/01;Turku, FIN
+Vitali;Kravtsov;Rangers;https://www.nhl.com/player/vitali-kravtsov-8480833;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480833.jpg;74;RW;L;"6'3""";189;12/23/99;Vladivostok, RUS
+Chris;Kreider;Rangers;https://www.nhl.com/player/chris-kreider-8475184;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475184.jpg;20;LW;L;"6'3""";217;04/30/91;Boxford, MA, USA
+Brendan;Lemieux;Rangers;https://www.nhl.com/player/brendan-lemieux-8477962;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477962.jpg;48;LW;L;"6'1""";213;03/15/96;Denver, CO, USA
+Vinni;Lettieri;Rangers;https://www.nhl.com/player/vinni-lettieri-8479968;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479968.jpg;95;RW;R;"5'11""";185;02/06/95;Excelsior, MN, USA
+Greg;McKegg;Rangers;https://www.nhl.com/player/greg-mckegg-8475735;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475735.jpg;14;C;L;"6'0""";192;06/17/92;St. Thomas, ON, CAN
+Danny;O'Regan;Rangers;https://www.nhl.com/player/danny-o-regan-8476982;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476982.jpg;65;C;R;"5'10""";180;01/30/94;Berlin, DEU
+Artemi;Panarin;Rangers;https://www.nhl.com/player/artemi-panarin-8478550;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478550.jpg;10;LW;R;"5'11""";170;10/30/91;Korkino, RUS
+Ryan;Strome;Rangers;https://www.nhl.com/player/ryan-strome-8476458;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476458.jpg;16;C;R;"6'1""";193;07/11/93;Mississauga, ON, CAN
+Mika;Zibanejad;Rangers;https://www.nhl.com/player/mika-zibanejad-8476459;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476459.jpg;93;C;R;"6'2""";208;04/18/93;Huddinge, SWE
+Brandon;Crawley;Rangers;https://www.nhl.com/player/brandon-crawley-8479027;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479027.jpg;46;D;L;"6'1""";202;02/02/97;Glen Rock, NJ, USA
+Tony;DeAngelo;Rangers;https://www.nhl.com/player/tony-deangelo-8477950;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477950.jpg;77;D;R;"5'11""";180;10/24/95;Sewell, NJ, USA
+Adam;Fox;Rangers;https://www.nhl.com/player/adam-fox-8479323;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479323.jpg;23;D;R;"5'11""";181;02/17/98;Jericho, NY, USA
+Libor;Hajek;Rangers;https://www.nhl.com/player/libor-hajek-8479333;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479333.jpg;25;D;L;"6'2""";203;02/04/98;Smrcek, CZE
+Ryan;Lindgren;Rangers;https://www.nhl.com/player/ryan-lindgren-8479324;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479324.jpg;55;D;L;"6'0""";191;02/11/98;Burnsville, MN, USA
+Darren;Raddysh;Rangers;https://www.nhl.com/player/darren-raddysh-8478178;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478178.jpg;44;D;R;"6'1""";200;02/28/96;Toronto, ON, CAN
+Brendan;Smith;Rangers;https://www.nhl.com/player/brendan-smith-8474090;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474090.jpg;42;D;L;"6'2""";200;02/08/89;Mimico, ON, CAN
+Jacob;Trouba;Rangers;https://www.nhl.com/player/jacob-trouba-8476885;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476885.jpg;8;D;R;"6'3""";209;02/26/94;Rochester, MI, USA
+Alexandar;Georgiev;Rangers;https://www.nhl.com/player/alexandar-georgiev-8480382;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480382.jpg;40;G;--;"6'1""";178;02/10/96;Ruse, BGR
+Igor;Shesterkin;Rangers;https://www.nhl.com/player/igor-shesterkin-8478048;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478048.jpg;31;G;--;"6'2""";182;12/30/95;Moscow, RUS
+Justin;Abdelkader;Red Wings;https://www.nhl.com/player/justin-abdelkader-8471716;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471716.jpg;8;LW;L;"6'2""";213;02/25/87;Muskegon, MI, USA
+Tyler;Bertuzzi;Red Wings;https://www.nhl.com/player/tyler-bertuzzi-8477479;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477479.jpg;59;LW;L;"6'1""";199;02/24/95;Sudbury, ON, CAN
+Christoffer;Ehn;Red Wings;https://www.nhl.com/player/christoffer-ehn-8478036;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478036.jpg;70;C;L;"6'3""";195;04/05/96;Skara, SWE
+Adam;Erne;Red Wings;https://www.nhl.com/player/adam-erne-8477454;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477454.jpg;73;LW;L;"6'1""";212;04/20/95;New Haven, CT, USA
+Robby;Fabbri;Red Wings;https://www.nhl.com/player/robby-fabbri-8477952;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477952.jpg;14;C;L;"5'10""";190;01/22/96;Mississauga, ON, CAN
+Valtteri;Filppula;Red Wings;https://www.nhl.com/player/valtteri-filppula-8470047;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470047.jpg;51;C;L;"6'0""";189;03/20/84;Vantaa, FIN
+Sam;Gagner;Red Wings;https://www.nhl.com/player/sam-gagner-8474040;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474040.jpg;89;C;R;"5'11""";200;08/10/89;London, ON, CAN
+Luke;Glendening;Red Wings;https://www.nhl.com/player/luke-glendening-8476822;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476822.jpg;41;C;R;"5'11""";191;04/28/89;Grand Rapids, MI, USA
+Darren;Helm;Red Wings;https://www.nhl.com/player/darren-helm-8471794;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471794.jpg;43;LW;L;"6'0""";192;01/21/87;St. Andrews, MB, CAN
+Dylan;Larkin;Red Wings;https://www.nhl.com/player/dylan-larkin-8477946;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477946.jpg;71;C;L;"6'1""";198;07/30/96;Waterford, MI, USA
+Anthony;Mantha;Red Wings;https://www.nhl.com/player/anthony-mantha-8477511;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477511.jpg;39;RW;L;"6'5""";234;09/16/94;Longueuil, QC, CAN
+Frans;Nielsen;Red Wings;https://www.nhl.com/player/frans-nielsen-8470144;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470144.jpg;81;C;L;"6'1""";186;04/24/84;Herning, DNK
+Brendan;Perlini;Red Wings;https://www.nhl.com/player/brendan-perlini-8477943;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477943.jpg;29;LW;L;"6'3""";211;04/27/96;Guildford, GBR
+Dmytro;Timashov;Red Wings;https://www.nhl.com/player/dmytro-timashov-8478857;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478857.jpg;15;LW;L;"5'10""";192;10/01/96;Kirovograd, UKR
+Alex;Biega;Red Wings;https://www.nhl.com/player/alex-biega-8473415;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473415.jpg;3;D;R;"5'10""";199;04/04/88;Montreal, QC, CAN
+Madison;Bowey;Red Wings;https://www.nhl.com/player/madison-bowey-8477474;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477474.jpg;74;D;R;"6'2""";202;04/22/95;Winnipeg, MB, CAN
+Dennis;Cholowski;Red Wings;https://www.nhl.com/player/dennis-cholowski-8479395;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479395.jpg;21;D;L;"6'2""";197;02/15/98;Langley, BC, CAN
+Trevor;Daley;Red Wings;https://www.nhl.com/player/trevor-daley-8470110;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470110.jpg;83;D;L;"5'11""";199;10/09/83;Toronto, ON, CAN
+Danny;DeKeyser;Red Wings;https://www.nhl.com/player/danny-dekeyser-8477215;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477215.jpg;65;D;L;"6'3""";190;03/07/90;Detroit, MI, USA
+Jonathan;Ericsson;Red Wings;https://www.nhl.com/player/jonathan-ericsson-8470318;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470318.jpg;52;D;L;"6'4""";218;03/02/84;Karlskrona, SWE
+Cody;Goloubef;Red Wings;https://www.nhl.com/player/cody-goloubef-8474597;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474597.jpg;26;D;R;"6'1""";190;11/30/89;Mississauga, ON, CAN
+Filip;Hronek;Red Wings;https://www.nhl.com/player/filip-hronek-8479425;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479425.jpg;17;D;R;"6'0""";183;11/02/97;Hradec Králové, CZE
+Gustav;Lindstrom;Red Wings;https://www.nhl.com/player/gustav-lindstrom-8480184;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480184.jpg;28;D;R;"6'2""";190;10/20/98;Ostervala, SWE
+Patrik;Nemeth;Red Wings;https://www.nhl.com/player/patrik-nemeth-8475747;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475747.jpg;22;D;L;"6'3""";228;02/08/92;Stockholm, SWE
+Marc;Staal;Red Wings;https://www.nhl.com/player/marc-staal-8471686;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471686.jpg;18;D;L;"6'4""";209;01/13/87;Thunder Bay, ON, CAN
+Jonathan;Bernier;Red Wings;https://www.nhl.com/player/jonathan-bernier-8473541;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473541.jpg;45;G;--;"6'0""";185;08/07/88;Laval, QC, CAN
+Jimmy;Howard;Red Wings;https://www.nhl.com/player/jimmy-howard-8470657;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470657.jpg;35;G;--;"6'1""";218;03/26/84;Syracuse, NY, USA
+Jack;Eichel;Sabres;https://www.nhl.com/player/jack-eichel-8478403;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478403.jpg;9;C;R;"6'2""";203;10/28/96;North Chelmsford, MA, USA
+Michael;Frolik;Sabres;https://www.nhl.com/player/michael-frolik-8473564;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473564.jpg;67;RW;L;"6'1""";190;02/17/88;Kladno, CZE
+Zemgus;Girgensons;Sabres;https://www.nhl.com/player/zemgus-girgensons-8476878;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476878.jpg;28;C;L;"6'2""";211;01/05/94;Riga, LVA
+Dominik;Kahun;Sabres;https://www.nhl.com/player/dominik-kahun-8480946;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480946.jpg;95;C;L;"5'11""";175;07/02/95;Plana, CZE
+Johan;Larsson;Sabres;https://www.nhl.com/player/johan-larsson-8475728;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475728.jpg;22;C;L;"5'11""";204;07/25/92;Lau, SWE
+Curtis;Lazar;Sabres;https://www.nhl.com/player/curtis-lazar-8477508;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477508.jpg;27;C;R;"6'0""";211;02/02/95;Salmon Arm, BC, CAN
+Kyle;Okposo;Sabres;https://www.nhl.com/player/kyle-okposo-8473449;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473449.jpg;21;RW;R;"6'0""";216;04/16/88;St. Paul, MN, USA
+Victor;Olofsson;Sabres;https://www.nhl.com/player/victor-olofsson-8478109;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478109.jpg;68;LW;L;"5'11""";183;07/18/95;Ornskoldsvik, SWE
+Sam;Reinhart;Sabres;https://www.nhl.com/player/sam-reinhart-8477933;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477933.jpg;23;C;R;"6'1""";194;11/06/95;West Vancouver, BC, CAN
+Wayne;Simmonds;Sabres;https://www.nhl.com/player/wayne-simmonds-8474190;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474190.jpg;17;RW;R;"6'2""";185;08/26/88;Scarborough, ON, CAN
+Jeff;Skinner;Sabres;https://www.nhl.com/player/jeff-skinner-8475784;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475784.jpg;53;LW;L;"5'11""";195;05/16/92;Toronto, ON, CAN
+Vladimir;Sobotka;Sabres;https://www.nhl.com/player/vladimir-sobotka-8471743;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471743.jpg;17;C;L;"5'11""";191;07/02/87;Trebic, CZE
+Eric;Staal;Sabres;https://www.nhl.com/player/eric-staal-8470595;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470595.jpg;12;C;L;"6'4""";206;10/29/84;Thunder Bay, ON, CAN
+Tage;Thompson;Sabres;https://www.nhl.com/player/tage-thompson-8479420;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479420.jpg;72;RW;R;"6'6""";215;10/30/97;Phoenix, AZ, USA
+Jimmy;Vesey;Sabres;https://www.nhl.com/player/jimmy-vesey-8476918;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476918.jpg;13;LW;L;"6'3""";202;05/26/93;Boston, MA, USA
+Rasmus;Dahlin;Sabres;https://www.nhl.com/player/rasmus-dahlin-8480839;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480839.jpg;26;D;L;"6'3""";193;04/13/00;Lidkoping, SWE
+Matt;Hunwick;Sabres;https://www.nhl.com/player/matt-hunwick-8471436;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471436.jpg;48;D;L;"5'11""";194;05/21/85;Warren, MI, USA
+Henri;Jokiharju;Sabres;https://www.nhl.com/player/henri-jokiharju-8480035;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480035.jpg;10;D;R;"6'0""";195;06/17/99;Oulu, FIN
+Jake;McCabe;Sabres;https://www.nhl.com/player/jake-mccabe-8476931;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476931.jpg;19;D;L;"6'1""";204;10/12/93;Eau Claire, WI, USA
+Colin;Miller;Sabres;https://www.nhl.com/player/colin-miller-8476525;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476525.jpg;33;D;R;"6'1""";193;10/29/92;Sault Ste. Marie, ON, CAN
+Brandon;Montour;Sabres;https://www.nhl.com/player/brandon-montour-8477986;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477986.jpg;62;D;R;"6'0""";189;04/11/94;Brantford, ON, CAN
+Lawrence;Pilut;Sabres;https://www.nhl.com/player/lawrence-pilut-8480935;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480935.jpg;24;D;L;"5'11""";194;12/30/95;Tingsryd, SWE
+Rasmus;Ristolainen;Sabres;https://www.nhl.com/player/rasmus-ristolainen-8477499;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477499.jpg;55;D;R;"6'4""";220;10/27/94;Turku, FIN
+Carter;Hutton;Sabres;https://www.nhl.com/player/carter-hutton-8475622;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475622.jpg;40;G;--;"6'0""";202;12/19/85;Thunder Bay, ON, CAN
+Linus;Ullmark;Sabres;https://www.nhl.com/player/linus-ullmark-8476999;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476999.jpg;35;G;--;"6'4""";215;07/31/93;Lugnvik, SWE
+Artem;Anisimov;Senators;https://www.nhl.com/player/artem-anisimov-8473573;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473573.jpg;51;C;L;"6'4""";199;05/24/88;Yaroslavl, RUS
+Rudolfs;Balcers;Senators;https://www.nhl.com/player/rudolfs-balcers-8478870;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478870.jpg;38;LW;L;"5'11""";180;04/08/97;Liepaja, LVA
+Mikkel;Boedker;Senators;https://www.nhl.com/player/mikkel-boedker-8474571;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474571.jpg;89;LW;L;"5'11""";207;12/16/89;Brondby, DNK
+Connor;Brown;Senators;https://www.nhl.com/player/connor-brown-8477015;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477015.jpg;28;RW;R;"6'0""";186;01/14/94;Toronto, ON, CAN
+Anthony;Duclair;Senators;https://www.nhl.com/player/anthony-duclair-8477407;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477407.jpg;10;LW;L;"5'11""";198;08/26/95;Pointe-Claire, QC, CAN
+Jayce;Hawryluk;Senators;https://www.nhl.com/player/jayce-hawryluk-8477963;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477963.jpg;79;RW;R;"5'11""";196;01/01/96;Yorkton, SK, CAN
+Nick;Paul;Senators;https://www.nhl.com/player/nick-paul-8477426;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477426.jpg;13;LW;L;"6'3""";219;03/20/95;Mississauga, ON, CAN
+Matthew;Peca;Senators;https://www.nhl.com/player/matthew-peca-8476285;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476285.jpg;53;C;L;"5'9""";182;04/27/93;Petawawa, ON, CAN
+Scott;Sabourin;Senators;https://www.nhl.com/player/scott-sabourin-8477149;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477149.jpg;49;RW;R;"6'3""";208;07/30/92;Orleans, ON, CAN
+Chris;Tierney;Senators;https://www.nhl.com/player/chris-tierney-8476919;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476919.jpg;71;C;L;"6'1""";195;07/01/94;Keswick, ON, CAN
+Brady;Tkachuk;Senators;https://www.nhl.com/player/brady-tkachuk-8480801;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480801.jpg;7;LW;L;"6'4""";212;09/16/99;Scottsdale, AZ, USA
+Colin;White;Senators;https://www.nhl.com/player/colin-white-8478400;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478400.jpg;36;C;R;"5'11""";191;01/30/97;Boston, MA, USA
+Mark;Borowiecki;Senators;https://www.nhl.com/player/mark-borowiecki-8474697;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474697.jpg;74;D;L;"6'2""";204;07/12/89;Ottawa, ON, CAN
+Josh;Brown;Senators;https://www.nhl.com/player/josh-brown-8477384;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477384.jpg;2;D;R;"6'5""";217;01/21/94;London, ON, CAN
+Thomas;Chabot;Senators;https://www.nhl.com/player/thomas-chabot-8478469;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478469.jpg;72;D;L;"6'2""";190;01/30/97;Sainte-Marie, QC, CAN
+Andreas;Englund;Senators;https://www.nhl.com/player/andreas-englund-8477971;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477971.jpg;39;D;L;"6'3""";189;01/21/96;Stockholm, SWE
+Ron;Hainsey;Senators;https://www.nhl.com/player/ron-hainsey-8468493;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8468493.jpg;81;D;L;"6'3""";201;03/24/81;Bolton, CT, USA
+Mike;Reilly;Senators;https://www.nhl.com/player/mike-reilly-8476422;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476422.jpg;5;D;L;"6'1""";200;07/13/93;Chicago, IL, USA
+Christian;Wolanin;Senators;https://www.nhl.com/player/christian-wolanin-8478846;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478846.jpg;86;D;L;"6'2""";185;03/17/95;Quebec City, QC, CAN
+Nikita;Zaitsev;Senators;https://www.nhl.com/player/nikita-zaitsev-8479458;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479458.jpg;22;D;R;"6'2""";188;10/29/91;Moscow, RUS
+Craig;Anderson;Senators;https://www.nhl.com/player/craig-anderson-8467950;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8467950.jpg;41;G;--;"6'2""";186;05/21/81;Park Ridge, IL, USA
+Marcus;Hogberg;Senators;https://www.nhl.com/player/marcus-hogberg-8477405;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477405.jpg;35;G;--;"6'5""";209;11/25/94;Orebro, SWE
+Anders;Nilsson;Senators;https://www.nhl.com/player/anders-nilsson-8475195;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475195.jpg;31;G;--;"6'6""";232;03/19/90;Lulea, SWE
+Lean;Bergmann;Sharks;https://www.nhl.com/player/lean-bergmann-8481640;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481640.jpg;45;C;L;"6'2""";205;10/04/98;Hemer, DEU
+Logan;Couture;Sharks;https://www.nhl.com/player/logan-couture-8474053;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474053.jpg;39;C;L;"6'1""";200;03/28/89;Guelph, ON, CAN
+Ryan;Donato;Sharks;https://www.nhl.com/player/ryan-donato-8477987;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477987.jpg;6;C;L;"6'0""";192;04/09/96;Boston, MA, USA
+Dylan;Gambrell;Sharks;https://www.nhl.com/player/dylan-gambrell-8479580;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479580.jpg;7;C;R;"6'0""";185;08/26/96;Bonney Lake, WA, USA
+Noah;Gregor;Sharks;https://www.nhl.com/player/noah-gregor-8479393;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479393.jpg;73;C;L;"6'0""";185;07/28/98;Beaumont, AB, CAN
+Tomas;Hertl;Sharks;https://www.nhl.com/player/tomas-hertl-8476881;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476881.jpg;48;C;L;"6'2""";215;11/12/93;Praha, CZE
+Evander;Kane;Sharks;https://www.nhl.com/player/evander-kane-8475169;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475169.jpg;9;LW;L;"6'2""";210;08/02/91;Vancouver, BC, CAN
+Melker;Karlsson;Sharks;https://www.nhl.com/player/melker-karlsson-8477922;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477922.jpg;68;C;R;"6'0""";180;07/18/90;Lycksele, SWE
+Kevin;Labanc;Sharks;https://www.nhl.com/player/kevin-labanc-8478099;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478099.jpg;62;RW;R;"5'11""";185;12/12/95;Brooklyn, NY, USA
+Timo;Meier;Sharks;https://www.nhl.com/player/timo-meier-8478414;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478414.jpg;28;RW;L;"6'0""";210;10/08/96;Herisau, CHE
+Stefan;Noesen;Sharks;https://www.nhl.com/player/stefan-noesen-8476474;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476474.jpg;11;RW;R;"6'1""";205;02/12/93;Plano, TX, USA
+Antti;Suomela;Sharks;https://www.nhl.com/player/antti-suomela-8480965;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480965.jpg;40;C;L;"6'0""";180;03/17/94;Espoo, FIN
+Joe;Thornton;Sharks;https://www.nhl.com/player/joe-thornton-8466138;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8466138.jpg;19;C;L;"6'4""";220;07/02/79;London, ON, CAN
+Alexander;True;Sharks;https://www.nhl.com/player/alexander-true-8480384;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480384.jpg;70;C;L;"6'5""";200;07/17/97;Copenhagen, DNK
+Brent;Burns;Sharks;https://www.nhl.com/player/brent-burns-8470613;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470613.jpg;88;D;R;"6'5""";230;03/09/85;Barrie, ON, CAN
+Brandon;Davidson;Sharks;https://www.nhl.com/player/brandon-davidson-8475869;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475869.jpg;21;D;L;"6'2""";208;08/21/91;Taber, AB, CAN
+Mario;Ferraro;Sharks;https://www.nhl.com/player/mario-ferraro-8479983;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479983.jpg;38;D;L;"5'11""";185;09/17/98;Toronto, ON, CAN
+Tim;Heed;Sharks;https://www.nhl.com/player/tim-heed-8475841;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475841.jpg;72;D;R;"5'11""";180;01/27/91;Gothenburg, SWE
+Erik;Karlsson;Sharks;https://www.nhl.com/player/erik-karlsson-8474578;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474578.jpg;65;D;R;"6'0""";190;05/31/90;Landsbro, SWE
+Jacob;Middleton;Sharks;https://www.nhl.com/player/jacob-middleton-8478136;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478136.jpg;67;D;L;"6'3""";210;01/02/96;Wainwright, AB, CAN
+Dalton;Prout;Sharks;https://www.nhl.com/player/dalton-prout-8474774;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474774.jpg;5;D;R;"6'3""";215;03/13/90;Kingsville, ON, CAN
+Radim;Simek;Sharks;https://www.nhl.com/player/radim-simek-8480160;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480160.jpg;51;D;L;"5'11""";200;09/20/92;Mlada Boleslav, CZE
+Marc-Edouard;Vlasic;Sharks;https://www.nhl.com/player/marc-edouard-vlasic-8471709;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471709.jpg;44;D;L;"6'1""";205;03/30/87;Montreal, QC, CAN
+Aaron;Dell;Sharks;https://www.nhl.com/player/aaron-dell-8477180;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477180.jpg;30;G;--;"6'0""";205;05/04/89;Airdrie, AB, CAN
+Martin;Jones;Sharks;https://www.nhl.com/player/martin-jones-8474889;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474889.jpg;31;G;--;"6'4""";190;01/10/90;North Vancouver, BC, CAN
+Jamie;Benn;Stars;https://www.nhl.com/player/jamie-benn-8473994;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8473994.jpg;14;LW;L;"6'2""";210;07/18/89;Victoria, BC, CAN
+Andrew;Cogliano;Stars;https://www.nhl.com/player/andrew-cogliano-8471699;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471699.jpg;11;C;L;"5'10""";175;06/14/87;Toronto, ON, CAN
+Blake;Comeau;Stars;https://www.nhl.com/player/blake-comeau-8471260;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471260.jpg;15;LW;R;"6'1""";200;02/18/86;Meadow Lake, SK, CAN
+Ty;Dellandrea;Stars;https://www.nhl.com/player/ty-dellandrea-8480848;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480848.jpg;60;C;R;"6'1""";190;07/21/00;Toronto, ON, CAN
+Jason;Dickinson;Stars;https://www.nhl.com/player/jason-dickinson-8477450;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477450.jpg;18;C;L;"6'2""";200;07/04/95;Georgetown, ON, CAN
+Justin;Dowling;Stars;https://www.nhl.com/player/justin-dowling-8475413;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475413.jpg;37;C;L;"5'10""";180;10/01/90;Calgary, AB, CAN
+Radek;Faksa;Stars;https://www.nhl.com/player/radek-faksa-8476889;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476889.jpg;12;C;L;"6'3""";220;01/09/94;Vitkov, CZE
+Denis;Gurianov;Stars;https://www.nhl.com/player/denis-gurianov-8478495;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478495.jpg;34;RW;L;"6'3""";200;06/07/97;Togliatti, RUS
+Martin;Hanzal;Stars;https://www.nhl.com/player/martin-hanzal-8471691;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471691.jpg;40;C;L;"6'6""";230;02/20/87;Pisek, CZE
+Roope;Hintz;Stars;https://www.nhl.com/player/roope-hintz-8478449;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478449.jpg;24;LW;L;"6'3""";220;11/17/96;Tampere, FIN
+Mattias;Janmark;Stars;https://www.nhl.com/player/mattias-janmark-8477406;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477406.jpg;13;C;L;"6'1""";195;12/08/92;Danderyd, SWE
+Joel;Kiviranta;Stars;https://www.nhl.com/player/joel-kiviranta-8481641;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481641.jpg;25;LW;L;"5'11""";180;03/23/96;Vantaa, FIN
+Joe;Pavelski;Stars;https://www.nhl.com/player/joe-pavelski-8470794;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470794.jpg;16;C;R;"5'11""";195;07/11/84;Plover, WI, USA
+Corey;Perry;Stars;https://www.nhl.com/player/corey-perry-8470621;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470621.jpg;10;RW;R;"6'3""";205;05/16/85;Peterborough, ON, CAN
+Alexander;Radulov;Stars;https://www.nhl.com/player/alexander-radulov-8471228;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471228.jpg;47;RW;L;"6'1""";205;07/05/86;Nizhny Tagil, RUS
+Tyler;Seguin;Stars;https://www.nhl.com/player/tyler-seguin-8475794;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475794.jpg;91;C;R;"6'1""";200;01/31/92;Brampton, ON, CAN
+Taylor;Fedun;Stars;https://www.nhl.com/player/taylor-fedun-8476166;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476166.jpg;42;D;R;"6'1""";200;06/04/88;Edmonton, AB, CAN
+Joel;Hanley;Stars;https://www.nhl.com/player/joel-hanley-8477810;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477810.jpg;39;D;L;"5'11""";190;06/08/91;Keswick, ON, CAN
+Thomas;Harley;Stars;https://www.nhl.com/player/thomas-harley-8481581;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481581.jpg;55;D;L;"6'3""";190;08/19/01;Syracuse, NY, USA
+Miro;Heiskanen;Stars;https://www.nhl.com/player/miro-heiskanen-8480036;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8480036.jpg;4;D;L;"6'1""";190;07/18/99;Espoo, FIN
+Stephen;Johns;Stars;https://www.nhl.com/player/stephen-johns-8475730;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475730.jpg;28;D;R;"6'4""";225;04/18/92;Ellwood City, PA, USA
+John;Klingberg;Stars;https://www.nhl.com/player/john-klingberg-8475906;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475906.jpg;3;D;R;"6'3""";190;08/14/92;Gothenburg, SWE
+Esa;Lindell;Stars;https://www.nhl.com/player/esa-lindell-8476902;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476902.jpg;23;D;L;"6'3""";215;05/23/94;Vantaa, FIN
+Jamie;Oleksiak;Stars;https://www.nhl.com/player/jamie-oleksiak-8476467;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476467.jpg;2;D;L;"6'7""";255;12/21/92;Toronto, ON, CAN
+Roman;Polak;Stars;https://www.nhl.com/player/roman-polak-8471392;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471392.jpg;45;D;R;"6'2""";240;04/28/86;Ostrava, CZE
+Andrej;Sekera;Stars;https://www.nhl.com/player/andrej-sekera-8471284;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471284.jpg;5;D;L;"6'0""";195;06/08/86;Bojnice, SVK
+Ben;Bishop;Stars;https://www.nhl.com/player/ben-bishop-8471750;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471750.jpg;30;G;--;"6'7""";210;11/21/86;Denver, CO, USA
+Anton;Khudobin;Stars;https://www.nhl.com/player/anton-khudobin-8471418;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471418.jpg;35;G;--;"5'11""";195;05/07/86;Ust-Kamenogorsk, KAZ
+Jake;Oettinger;Stars;https://www.nhl.com/player/jake-oettinger-8479979;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479979.jpg;29;G;--;"6'5""";225;12/18/98;Lakeville, MN, USA
+Nick;Bjugstad;Wild;https://www.nhl.com/player/nick-bjugstad-8475760;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475760.jpg;27;C;R;"6'6""";215;07/17/92;Minneapolis, MN, USA
+Joel;Eriksson Ek;Wild;https://www.nhl.com/player/joel-eriksson-ek-8478493;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478493.jpg;14;C;L;"6'1""";210;01/29/97;Karlstad, SWE
+Kevin;Fiala;Wild;https://www.nhl.com/player/kevin-fiala-8477942;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477942.jpg;22;LW;L;"5'10""";193;07/22/96;St. Gallen, CHE
+Marcus;Foligno;Wild;https://www.nhl.com/player/marcus-foligno-8475220;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475220.jpg;17;LW;L;"6'3""";224;08/10/91;Buffalo, NY, USA
+Alex;Galchenyuk;Wild;https://www.nhl.com/player/alex-galchenyuk-8476851;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476851.jpg;27;C;L;"6'1""";207;02/12/94;Milwaukee, WI, USA
+Jordan;Greenway;Wild;https://www.nhl.com/player/jordan-greenway-8478413;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478413.jpg;18;LW;L;"6'6""";225;02/16/97;Canton, NY, USA
+Ryan;Hartman;Wild;https://www.nhl.com/player/ryan-hartman-8477451;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477451.jpg;38;RW;R;"6'0""";189;09/20/94;Hilton Head Isl., SC, USA
+Marcus;Johansson;Wild;https://www.nhl.com/player/marcus-johansson-8475149;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475149.jpg;90;C;L;"6'1""";205;10/06/90;Landskrona, SWE
+Luke;Johnson;Wild;https://www.nhl.com/player/luke-johnson-8477366;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477366.jpg;41;C;R;"5'11""";177;09/19/94;Grand Forks, ND, USA
+Mikko;Koivu;Wild;https://www.nhl.com/player/mikko-koivu-8469459;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8469459.jpg;9;C;L;"6'3""";213;03/12/83;Turku, FIN
+Luke;Kunin;Wild;https://www.nhl.com/player/luke-kunin-8479316;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479316.jpg;19;C;R;"6'0""";197;12/04/97;Chesterfield, MO, USA
+Gerald;Mayhew;Wild;https://www.nhl.com/player/gerald-mayhew-8479933;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8479933.jpg;26;C;R;"5'9""";166;12/31/92;Wyandotte, MI, USA
+Zach;Parise;Wild;https://www.nhl.com/player/zach-parise-8470610;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470610.jpg;11;LW;L;"5'11""";195;07/28/84;Minneapolis, MN, USA
+Victor;Rask;Wild;https://www.nhl.com/player/victor-rask-8476437;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476437.jpg;49;C;L;"6'2""";193;03/01/93;Leksand, SWE
+Kyle;Rau;Wild;https://www.nhl.com/player/kyle-rau-8476415;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476415.jpg;37;C;L;"5'8""";176;10/24/92;Eden Prairie, MN, USA
+Nico;Sturm;Wild;https://www.nhl.com/player/nico-sturm-8481477;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481477.jpg;7;C;L;"6'3""";206;05/03/95;Augsburg, DEU
+Mats;Zuccarello;Wild;https://www.nhl.com/player/mats-zuccarello-8475692;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8475692.jpg;36;RW;L;"5'8""";178;09/01/87;Oslo, NOR
+Matt;Bartkowski;Wild;https://www.nhl.com/player/matt-bartkowski-8474749;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474749.jpg;44;D;L;"6'1""";198;06/04/88;Pittsburgh, PA, USA
+Louie;Belpedio;Wild;https://www.nhl.com/player/louie-belpedio-8478011;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478011.jpg;47;D;R;"5'11""";196;05/14/96;Skokie, IL, USA
+Jonas;Brodin;Wild;https://www.nhl.com/player/jonas-brodin-8476463;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476463.jpg;25;D;L;"6'1""";194;07/12/93;Karlstad, SWE
+Matt;Dumba;Wild;https://www.nhl.com/player/matt-dumba-8476856;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476856.jpg;24;D;R;"6'0""";180;07/25/94;Regina, SK, CAN
+Brad;Hunt;Wild;https://www.nhl.com/player/brad-hunt-8476779;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8476779.jpg;77;D;L;"5'9""";176;08/24/88;Maple Ridge, BC, CAN
+Carson;Soucy;Wild;https://www.nhl.com/player/carson-soucy-8477369;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8477369.jpg;21;D;L;"6'5""";210;07/27/94;Viking, AB, CAN
+Jared;Spurgeon;Wild;https://www.nhl.com/player/jared-spurgeon-8474716;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8474716.jpg;46;D;R;"5'9""";167;11/29/89;Edmonton, AB, CAN
+Ryan;Suter;Wild;https://www.nhl.com/player/ryan-suter-8470600;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8470600.jpg;20;D;L;"6'2""";206;01/21/85;Madison, WI, USA
+Devan;Dubnyk;Wild;https://www.nhl.com/player/devan-dubnyk-8471227;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471227.jpg;40;G;--;"6'6""";224;05/04/86;Regina, SK, CAN
+Kaapo;Kahkonen;Wild;https://www.nhl.com/player/kaapo-kahkonen-8478039;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8478039.jpg;34;G;--;"6'2""";215;08/16/96;Helsinki, FIN
+Mat;Robson;Wild;https://www.nhl.com/player/mat-robson-8481443;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8481443.jpg;42;G;--;"6'3""";190;03/26/96;Mississauga, ON, CAN
+Alex;Stalock;Wild;https://www.nhl.com/player/alex-stalock-8471774;https://cms.nhl.bamgrid.com/images/headshots/current/60x60/8471774.jpg;32;G;--;"6'0""";200;07/28/87;St. Paul, MN, USA
