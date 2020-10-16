@@ -4,7 +4,7 @@ import pandas as pd
 from tqdm import tqdm
 import csv
 
-save_path = "/Users/alexeytopolnitskiy/Projects/dl-for-hockey/nhl-team-classification/parser/players_photos.csv"
+save_path = "../dl-for-hockey/nhl-team-classification/parser/players_photos.csv"
 
 df = pd.read_csv("/Users/alexeytopolnitskiy/Projects/dl-for-hockey/nhl-players-data/players-data/players_info.csv", sep=";")
 players_sites = df.loc[:, "Webpage"]
